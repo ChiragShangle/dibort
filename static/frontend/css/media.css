@@ -1,0 +1,109 @@
+@media screen and (min-width: 1600px) {
+
+}
+
+@media screen and (max-width: 1440px) {
+
+}
+
+@media screen and (max-width: 1200px) {
+    .steps:after {
+        display: none;
+    }
+
+    li.mBtn {
+        padding: 0;
+    }
+
+    .vHeaderNav .vLogo {
+        position: absolute;
+        z-index: 999999999;
+    }
+
+    .navbar-fixed {
+        position: relative;
+    }
+
+    /*=== default ===*/
+    .vBodyCurveLeftContent:before {
+        width: 100%;
+    }
+
+    /*=== default ===*/
+}
+
+@media screen and (max-width: 1024px) {
+
+}
+
+@media screen and (min-width: 992px) {
+
+
+}
+
+@media screen and (max-width: 992px) {
+
+
+}
+
+@media screen and (max-width: 767px) {
+
+    /*=== header ===*/
+    .vHeaderTopLeft, .vSocial, .vHeaderSocial {
+        text-align: center;
+    }
+
+    footer .vSocial {
+        text-align: left;
+    }
+
+    .hBtn {
+        display: block;
+        padding: 5px 0;
+        text-align: center !important;
+    }
+    .vHeaderTopLeft.hBtn span {
+        display: none;
+    }
+    .vHeaderTop{
+        padding: 0;
+    }
+
+    /*=== header ===*/
+    /*=== banner ===*/
+    .vSliderWrapper h3 {
+        font-size: 35px;
+    }
+
+    .vSliderWrapper p {
+        font-size: 16px;
+    }
+
+    /*=== banner ===*/
+}
+
+@media screen and (max-width: 580px) {
+    .vSliderWrapper {
+        padding: 200px 30px 130px 30px;
+    }
+
+    .rv-iBoxAfter:after {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 480px) {
+
+}
+
+@media screen and (max-width: 425px) {
+
+}
+
+@media screen and (max-width: 375px) {
+
+}
+
+@media screen and (max-width: 320px) {
+
+}
