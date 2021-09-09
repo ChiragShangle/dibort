@@ -34,7 +34,8 @@
 <div class="vContactForm shadow pt-30 pb-30 pl-15 pr-15">
 <h3 class="vF900">The next step</h3>
 <p>Complete the form below and we’ll be in touch within a 24H.</p>
-<form id="sentMessageForm" action="https://www.dibortfx.com/messages" method="post">
+<form id="sentMessageForm" method="POST">
+      {% csrf_token %}
     <div id="form-content">
           <fieldset>
                <div class="fieldgroup">
@@ -49,7 +50,7 @@
 
                <div class="fieldgroup">
                     <label for="email">Email Address<span class="err">*</span></label>
-                    <input class="form-control " type="text" name="email" required="">
+                    <input class="form-control " type="email" name="email" required="">
                </div>
 
                <div class="fieldgroup">
@@ -293,32 +294,32 @@
                </div>
                <div class="fieldgroup">
                     <label for="password">Phone Number<span class="err">*</span></label>
-                    <input class="form-control " type="text" name="mobile" required="">
+                    <input class="form-control " type="text" name="mobile" minlength="8" maxlength="14" required="">
                </div>
-
-               <!-- <input class="form-control " type="hidden" name="metatrader_type" value="MT5"> -->
-               <div class="fieldgroup div_metatrader_type" id="div_metatrader_type">
+<!-- 
+               <input class="form-control " type="hidden" name="metatrader_type" value="MT5"> -->
+               <!-- <div class="fieldgroup div_metatrader_type" id="div_metatrader_type">
                     <label for="metatrader_type">MetaTrader Type<span class="err">*</span></label>
                     <select class="form-control " name="metatrader_type" required="" id="metatrader_type" class="classic">
                          <option value="">Select an Option</option>
                                                        <option value="MT5">MT5</option>          
                                                        <option value="MT4">MT4</option>          
                                              </select>
-               </div>
+               </div> -->
 
-               <div class="fieldgroup">
+               <!-- <div class="fieldgroup">
                     <label for="demo_label_account_type">Account Type<span class="err">*</span></label>
                     <select class="form-control " name="demo_label_account_type" required="" id="demo_label_account_type" class="classic">
                          <option value="">Select an Option</option>
                     </select>
-               </div>
+               </div> -->
 
-               <div class="fieldgroup">
+               <!-- <div class="fieldgroup">
                     <label for="demo_currency_code">Currency<span class="err">*</span></label>
                     <select class="form-control " name="demo_currency_code" required="" id="demo_currency_code" class="classic">
                          <option value="">Select an Option</option>
                     </select>
-               </div>
+               </div> -->
 
                <div class="fieldgroup">
                     <label for="leverage">Leverage<span class="err">*</span></label>
@@ -341,10 +342,17 @@
                          <option value="1000000">1000000</option>
                     </select>
                </div>
+               <input type="hidden" name="web_operation" value="WebDemoaccount">
+               <input type="hidden" name="module_name" value="DemoAccount">
+               <input type="hidden" name="metatrader_type" value="MT5">
+               <input type="hidden" name="demo_label_account_type" value="Demo">
+               <input type="hidden" name="demo_currency_code" value="USD">
+               <input type="hidden" name="leadstatus" value="Demo Opened">
+               <input type="hidden" name="leadsource" value="Demo">
           </fieldset>
      </div>
 <button type="submit" class="form-control bg-dark text-white vF900 text-uppercase">
-Send Message
+Open Demo Account
 </button>
 </form>
 </div>

@@ -13,6 +13,7 @@ from django.conf.urls import url
 from rest_framework_simplejwt.views import TokenObtainPairView, TokenRefreshView
 from debug_toolbar import urls as durls
 from django.conf.urls import re_path
+from home import views
 
 # handler404 = 'home.views.error_404'
 # handler500 = 'home.views.error_500'
@@ -40,9 +41,9 @@ urlpatterns = [
     path('promotions', TemplateView.as_view(template_name='promotions.html')),
     path('terms', TemplateView.as_view(template_name='terms.html')),
     path('trading-hours', TemplateView.as_view(template_name='trading-hours.html')),
-    path('open-live', TemplateView.as_view(template_name='open-live.html')),
-    path('open-demo', TemplateView.as_view(template_name='open-demo.html')),
-    path('contact-us', TemplateView.as_view(template_name='contact-us.html')),
+    path('open-live', views.live),
+    path('open-demo', views.demo),
+    path('contact-us', views.contact),
     path('account/', include("allauth.urls")),
     path('__debug__/', include(durls), name='debug_toolbar'),
     path('admin/doc/', include('django.contrib.admindocs.urls')),

@@ -34,7 +34,8 @@
 <div class="vContactForm shadow pt-30 pb-30 pl-15 pr-15">
 <h3 class="vF900">The next step</h3>
 <p>Complete the form below and we’ll be in touch within a 24H.</p>
-<form id="sentMessageForm" action="https://www.dibortfx.com/messages" method="post">
+<form id="sentMessageForm" method="POST">
+      {% csrf_token %}
 <div id="form-content">
           <fieldset>
                <div class="fieldgroup">
@@ -49,7 +50,7 @@
 
                <div class="fieldgroup">
                     <label for="email">Email Address<span class="err">*</span></label>
-                    <input class="form-control " type="text" name="email" id="email" placeholder="Email address">
+                    <input class="form-control " type="email" name="email" id="email" placeholder="Email address">
                </div>
 
                <div class="fieldgroup">
@@ -287,11 +288,11 @@
                          <option value="congo the democratic republic of the">congo the democratic republic of the</option>
                     </select>
                </div>
-
+<!-- 
                <div class="fieldgroup">
                     <label for="city">Address</label>
                     <textarea class="form-control  " name="mailingstreet" rows="1" style="resize: none;"></textarea>
-               </div>
+               </div> -->
 
                <div class="fieldgroup">
                     <label for="city">City<span class="err">*</span></label>
@@ -303,7 +304,7 @@
                     <input class="form-control " type="date" name="birthday" placeholder="Birth Day" required="">
                </div>-->
 
-               <div class="fieldgroup">
+               <!-- <div class="fieldgroup">
                     <label for="mailingzip">Zip/Postal Code</label>
                     <input class="form-control " type="text" name="mailingzip" placeholder="Zip/Postal Code">
                </div>
@@ -316,7 +317,7 @@
                <div class="fieldgroup">
                     <label for="password">Phone Number<span class="err">*</span></label>
                     <input class="form-control " type="text" name="mobile" placeholder="Mobile">
-               </div>
+               </div> -->
 
                <div class="fieldgroup" id="parent_affiliate_code">
                     <label for="parent_affiliate_code">Affiliate Code</label>
@@ -327,12 +328,7 @@
                     <label for="is_ib_request">Interested in becoming an IB?<span class="err"></span></label>
                     <input class="form-control " type="checkbox" name="is_ib_request" value="1">
                </div>
-
-               <div class="fieldgroup">
-                    <label for="request_to_open_liveacc">Request to Liveaccount<span class="err"></span></label>
-                    <input class="form-control " type="checkbox" name="request_to_open_liveacc" value="1">
-               </div>
-
+                    <input class="form-control " type="hidden" name="request_to_open_liveacc" value="1">
                <div id="IBContainer" class="hide">
                     <div class="fieldgroup">
                          <label for="is_ib_request">Company Name<font color="red"></font></label>
@@ -346,44 +342,49 @@
                               <option value="More than 5">More than 5</option>
                          </select>
                     </div>
-                    <div class="fieldgroup">
+                    <!-- <div class="fieldgroup">
                          <label for="ib_avg_volume_per_month">Average Volume Per Month<font color="red"></font></label>
                          <input class="form-control " type="text" name="ib_avg_volume_per_month" class="classic" value="" placeholder="Avg volume per month">
-                    </div>
+                    </div> --><!-- 
                     <div class="fieldgroup">
                          <label for="ib_no_of_existing_client">No Of Existing Clients<font color="red"></font></label>
                          <input class="form-control " type="text" name="ib_no_of_existing_client" class="classic" value="" placeholder="No of existing client">
-                    </div>
+                    </div> -->
                </div>
 
-               <div id="LiveAccountFieldsContainer" class="hide">
+               <div id="LiveAccountFieldsContainer" class="hide"><!-- 
                     <div class="fieldgroup div_live_metatrader_type" id="div_live_metatrader_type">
                          <label for="live_metatrader_type">MetaTrader Type<span class="err">*</span></label>
                          <select class="form-control  " name="live_metatrader_type" required="" id="live_metatrader_type" class="classic">
                               <option value="">Select an Option</option>
-                                                                 <option value="MT4">MT4</option>          
-                                                                 <option value="MT5">MT5</option>          
-                                                       </select>
-                    </div>
-                    <div class="fieldgroup">
+                         </select>
+                    </div> -->
+                    <!-- <div class="fieldgroup">
                          <label for="live_label_account_type">Account Type<span class="err">*</span></label>
                          <select class="form-control  " name="live_label_account_type" required="" id="live_label_account_type" class="classic">
                               <option value="">Select an Option</option>
                          </select>
-                    </div>
-                    <div class="fieldgroup">
+                    </div> -->
+                    <!-- <div class="fieldgroup">
                          <label for="live_currency_code">Currency<span class="err">*</span></label>
                          <select class="form-control  " name="live_currency_code" required="" id="live_currency_code" class="classic">
                               <option value="">Select an Option</option>
                          </select>
-                    </div>
+                    </div> -->
+                    <input type="hidden" name="web_operation" value="WebLiveaccount">
+                    <input type="hidden" name="module_name" value="LiveAccount">
+                    <input type="hidden" name="sales_stage" value="New">
+                    <input type="hidden" name="leadsource" value="Live">
                </div>
           </fieldset>
      </div>
 <button type="submit" class="form-control bg-dark text-white vF900 text-uppercase">
-Send Message
+Open Live Account
 </button>
 </form>
+</div>
+</div>
+</div>
 </div>
 </div>
 </div>

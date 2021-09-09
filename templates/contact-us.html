@@ -32,9 +32,11 @@
 <div class="row align-items-center">
 <div class="col-md-6">
 <div class="vContactForm shadow pt-30 pb-30 pl-15 pr-15">
+{% if message == False %}
 <h3 class="vF900">The next step</h3>
 <p>Complete the form below and we’ll be in touch within a 24H.</p>
-<form id="sentMessageForm" action="https://www.dibortfx.com/messages" method="post">
+<form id="sentMessageForm" action="/contact-us" method="POST">
+      {% csrf_token %}
     <div id="form-content">
             <fieldset>
                   <div class="fieldgroup">
@@ -49,7 +51,7 @@
 
                   <div class="fieldgroup">
                         <label for="email">Email Address<span class="err">*</span></label>
-                        <input class="form-control" type="text" name="email">
+                        <input class="form-control" type="email" name="email">
                   </div>
 
                   <div class="fieldgroup">
@@ -293,7 +295,7 @@
                   </div>
                   <div class="fieldgroup">
                         <label for="password">Phone Number<span class="err">*</span></label>
-                        <input class="form-control" type="text" name="mobile">
+                        <input class="form-control" type="text" minlength="8" maxlength="14" name="mobile">
                   </div>
                   <div class="fieldgroup">
                         <label for="ticket_title">Subject<span class="err">*</span></label>
@@ -303,6 +305,10 @@
                         <label for="description">Description<span class="err">*</span></label>
                         <textarea class="form-control" name="description" required=""></textarea>
                   </div>
+                  <input type="hidden" name="web_operation" value="WebContactUs">
+                  <input type="hidden" name="module_name" value="Contacts">
+                  <input type="hidden" name="leadstatus" value="New">
+                  <input type="hidden" name="leadsource" value="Contact us Form">
 
             </fieldset>
       </div>
@@ -310,6 +316,10 @@
 Send Message
 </button>
 </form>
+{% else %}
+<h3 class="vF900">Thankyou!</h3>
+<p>we’ll be in touch within a 24-48H.</p>
+{% endif %}
 </div>
 </div>
 </div>

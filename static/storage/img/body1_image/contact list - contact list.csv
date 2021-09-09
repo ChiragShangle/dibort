@@ -1,0 +1,966 @@
+salutation,firstname,lastname,email,phone,mobile,secondaryemail,is_document_verified,cont_nationality,cont_gender,cont_skypeid,cont_countryname,cont_contry_code,is_login_varified,KYC Verified,ib_company_name,ib_year_of_exprience,ib_no_of_existing_client,ib_avg_volume_per_month,ib_affiliate_code,ib_status,con_parent_ib_code,ib_status_reason,con_portal_password,is_ftd,level,Time Zone,Time Format,Date Format,Is Set Preference
+,Hasan Test,,mkhassan25@gmail.com,,880213434,,1,Bangladesh,,,Bangladesh,880,0,1,,,,,5002,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,ram nain,,ramnain82@gmail.com,,,,0,India,,,India,91,0,0,,,,,5005,,,,,,,UTC,24,dd-mm-yyyy,0
+,iqbal singh,,iqbalaulakh@gmail.com,,9988050859,,1,India,,,India,91,0,1,,,,,5007,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,mandeep kaur,,mandeepkaur61007@gmail.com,,919988050859,,0,India,,,India,91,0,0,,,,,5008,,,,,,,UTC,24,dd-mm-yyyy,0
+,RAJINDER KUMAR,,Rajinder.612@gmail.com,,917009808281,,1,India,,,India,91,0,1,,,,,5009,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Narender Kumar,,narenderku79883@gmail.com,,917988348924,,0,India,,,India,91,0,0,,,,,5010,,,,,,,UTC,24,dd-mm-yyyy,0
+,Dharamjit singh,,dharamjitbkk@gmail.com,,66863206840,,1,India,,,India,91,0,1,,,,,5011,,,,,,,UTC,24,dd-mm-yyyy,0
+,mandeep  kaur,,iqbalaulakh@yahoo.com,,91988878778,,1,India,,,India,91,0,1,,,,,5012,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,NITIN SINGH TOMAR,,NITIN.SINGH.TOMAR19@GMAIL.COM,,919584724224,,1,India,,,India,91,0,1,,,,,5013,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,iqbal singh,,iqbalaulakh@hotmail.com,,919988050859,,0,India,,,India,91,0,0,,,,,5014,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vijender  Singh,,vijenderkim@gmail.com,,917988878495,,0,India,,,India,91,0,0,,,,,5015,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunil Kumar,,petwarroplant108@gmail.com,,919306423776,,0,India,,,India,91,0,0,,,,,5016,,,,,,,UTC,24,dd-mm-yyyy,0
+,JAGDISH KUMAR,,jagdishnain73@gmail.com,,919357466633,,1,India,,,India,91,0,1,,,,,5017,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sanjay Singh,,ssbalaji1973@gmail.com,,919812746009,,0,India,,,India,91,0,0,,,,,5018,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sarjit  Kumar,,smachra4809@gmail.com,,919996582157,,0,India,,,India,91,0,0,,,,,5020,,,,,,,UTC,24,dd-mm-yyyy,0
+,Suresh Pannu,,Sureshpannuu@gmail.com,,919671255881,,1,India,,,India,91,0,1,,,,,5022,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,JAMES MORGAN,,ram.bittrex82@gmail.com,,660813567470,,1,Thailand,,,Thailand,66,0,1,,,,,5023,,,,,,,UTC,24,dd-mm-yyyy,0
+,Nikhil Kumar,,nikhilkr215@gmail.com,,9910749407,,1,India,,,India,91,0,1,,,,,5024,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,iqbal singh,,iqbalaulakh@rediffmail.com,,919988050859,,0,India,,,India,91,0,0,,,,,5025,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jagmohan Singh,,jjsimher@gmail.com,,918544846430,,0,India,,,India,91,0,0,,,,,5026,,,,,,,UTC,24,dd-mm-yyyy,0
+,Narayan  Chand,,narayanchand955@gmail.com,,919350984226,,0,India,,,India,91,0,0,,,,,5027,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rs Yadav,,rsyadav1555@gmail.com,,8319295430,,0,India,,,India,91,0,0,,,,,5028,,,,,,,UTC,24,dd-mm-yyyy,0
+,pushpa rani,,kunjduhan@gmail.com,,919034925590,,1,India,,,India,91,0,1,,,,,5032,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,suman bala,,sandeep.dalal761985@gmail.com,,919466338172,,1,India,,,India,91,0,1,,,,,5033,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,surender kumar,,surenderkumar82812@gmail.com,,919671279811,,1,India,,,India,91,0,1,,,,,5034,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,geeta  devi,,Manshurani2020@gmail.com,,918607271900,,1,India,,,India,91,0,1,,,,,5036,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,ajay kumar,,ajay.ahlawat3400@gmail.com,,919363000000,,1,India,,,India,91,0,1,,,,,5037,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,KIM HARUETHAI,,rajpaldhillon700@gmail.com,,668136567470,,1,Thailand,,,Thailand,66,0,1,,,,,5038,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,jitender singh,,Jitenderahlawat808@gmail.com,,918222044488,,1,India,,,India,91,0,1,,,,,5039,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,GEORGE SMITH,,Lovepreetchitta@gmail.com,,971813567470,,1,United Arab Emirates,,,United Arab Emirates,971,0,1,,,,,5040,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,MOHAN SINGH TOMAR,,mohan.tomar8@gmail.com,,918085565374,,1,India,,,India,91,0,1,,,,,5041,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,SANGEETA SANGEETA,,sangeeta.38612@gmail.com,,919464438612,,1,India,,,India,91,0,1,,,,,5042,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Mohit kumar,,mohitvermakelnia@gmail.com,,9466836008,,1,India,,,India,91,0,1,,,,,5043,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Satpal Singh,,preet.chahal0118@gmail.com,,919347700007,,1,India,,,India,91,0,1,,,,,5044,,,,,,,UTC,24,dd-mm-yyyy,0
+,Parmjeet  Suhag,,Psuhag098@gmail.com,,918295791257,,0,India,,,India,91,0,0,,,,,5045,,,,,,,UTC,24,dd-mm-yyyy,0
+,Manu Mor,,meenumor973@gmail.com,,919306139634,,0,India,,,India,91,0,0,,,,,5046,,,,,,,UTC,24,dd-mm-yyyy,0
+,Mahavir Singh,,mahavirsingh2478@gmail.com,,918059517521,,1,India,,,India,91,0,1,,,,,5047,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,LOVEJEET SINGH,,love.singh12357@gmail.com,,917888955834,,1,India,,,India,91,0,1,,,,,5048,,,,,,,UTC,24,dd-mm-yyyy,0
+,Krishan Krishan,,krishanduhan018@gmail.com,,919996252471,,1,India,,,India,91,0,1,,,,,5050,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sandeep Kumar,,sandeepkumarjindfm@gmail.com,,919416683588,,1,India,,,India,91,0,1,,,,,5051,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,JASVIR  SINGH,,JASSBBIR.SINGH@GMAIL.COM,,918012660009,,1,India,,,India,91,0,1,,,,,5052,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,DEEPAK KUMAR,,dahiya.deepak17@gmail.com,,919711406125,,1,India,,,India,91,0,1,,,,,5053,,,,,,,UTC,24,dd-mm-yyyy,0
+,asdasdad,,nafeg89661@acceptmail.net,,154848944,,0,United States,,,United States,1,0,0,,,,,5054,,,,,,,UTC,24,dd-mm-yyyy,0
+,Hasan,,sayefeshan7@gmail.com,,45454,,0,Australia,,,Australia,61,0,0,,,,,5055,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Josim,,satyajitmondal.nc120@gmail.com,,1773954867,,0,Bangladesh,,,Bangladesh,880,0,0,,,,,5056,,,,,,,UTC,24,dd-mm-yyyy,0
+,Balwinder Singh,,balwinderskhalsa@gmail.com,,61473853319,,1,Australia,,,Australia,61,0,1,,,,,5057,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Mohan,,harshitaduhan111@gmail.com,,918818008050,,1,India,,,India,91,0,1,,,,,5058,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Rakesh Sharma,,rakeshcks@gmail.com,,918094510109,,0,India,,,India,91,0,0,,,,,5059,,,,,,,UTC,24,dd-mm-yyyy,0
+,parmjeet,,parmjeet4success@gmail.com,,918295791257,,1,India,,,India,91,0,1,,,,,5060,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,MERU RAM,,vipshillay@gmail.com,,917206464164,test@tets.com,1,India,,,India,91,0,1,,,,,5061,,,,,,,UTC,24,dd-mm-yyyy,0
+,DHARWINDER  SINGH,,dharminder0606@gmail.com,,917009723037,,0,India,,,India,91,0,0,,,,,5062,,,,,,,UTC,24,dd-mm-yyyy,0
+,MAUSAM RANI,,aaravedeswal@gmail.com,,919813933146,,1,India,,,India,91,0,1,,,,,5063,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,RAMNIWAS,,ramniwasramniwas007@gmail.com,,917988585799,,1,India,,,India,91,0,1,,,,,5064,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,DHARMENDER KHOKHER,,jassikhokher96@gmail.com,,9813255881,,0,India,,,India,91,0,0,,,,,5065,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rakhi Rani,,rakhigoyat90@gmail.com,,918816880009,,1,India,,,India,91,0,1,,,,,5066,,,,,,,UTC,24,dd-mm-yyyy,0
+,Preeti,,rana14.pr@gmail.com,,918950077860,,1,India,,,India,91,0,1,,,,,5067,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Rahul Rana,,rahulrana9547@gmail.com,,917015900697,,1,India,,,India,91,0,1,,,,,5068,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vikash Kumar,,elrana25@gmail.com,,919925485477,,0,India,,,India,91,0,0,,,,,5069,,,,,,,UTC,24,dd-mm-yyyy,0
+,Shiv Deep,,7s.shiv@gmail.com,,919417556194,test@tets.com,0,India,,,India,91,0,0,,,,,5070,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ravinder Vats,,ravivats220@gmail.com,,919991448792,,1,India,,,India,91,0,1,,,,,5071,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Ram Dutt,,rajnet5052@gmail.com,,919138562924,,1,India,,,India,91,0,1,,,,,5072,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,DHARMENDER KHOKHAR,,jassikhokhar96@gmail.com,,919813255881,,1,India,,,India,91,0,1,,,,,5073,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,RAJ  KUMAR,,rajkumardhamouli@gmail.com,,919813311467,,1,India,,,India,91,0,1,,,,,5074,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Dharam Singh,,dharamsinghsahu1@gmail.com,,919416719254,,1,India,,,India,91,0,1,,,,,5075,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sushma,,rajnet5051@gmail.com,,7404357466,,1,India,,,India,91,0,1,,,,,5076,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Rahul Rana,,raopitu098@gmail.com,,9925485477,,1,India,,,India,91,0,1,,,,,5077,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Pawan Kumar,,pawannehra752@gmail.com,,8813008677,,1,India,,,India,91,0,1,,,,,5078,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Abhishek,,abhikhanna1985@gmail.com,,8684880684,,1,India,,,India,91,0,1,,,,,5079,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Anita Singroha,,rajsingroha@gmail.com,,919802100841,,0,India,,,India,91,0,0,,,,,5080,,,,,,,UTC,24,dd-mm-yyyy,0
+,Lucky  Singh,,abcdhj@gmail.com,,19877853169,,0,United States,,,United States,1,0,0,,,,,5081,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vikash Rana,,elarana25@gmail.com,,917015900697,,1,India,,,India,91,0,1,,,,,5082,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Anita Singroha,,rajsingroha@yahoo.com,,919802100841,test@test.com,1,India,,,India,91,0,1,,,,,5083,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,SUDERSHANA,,sudmk0@gmail.com,,919671953838,,0,India,,,India,91,0,0,,,,,5084,,,,,,,UTC,24,dd-mm-yyyy,0
+,sudershana,,mknain78@gmail.com,,919671953838,,1,India,,,India,91,0,1,,,,,5085,,,,,,,UTC,24,dd-mm-yyyy,0
+,Parveen Malik,,parveenmalik1979@gmail.com,,917400009800,,1,India,,,India,91,0,1,,,,,5086,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sandeep Kumar,,sandeepludana2@gmail.com,,918708880855,,1,India,,,India,91,0,1,,,,,5087,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunil  Kumar,,Sunil.Ahlawat5719@gmail.com,,919467365903,,1,India,,,India,91,0,1,,,,,5088,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Vijender Kumar,,shribalajiengg.works62@gmail.com,,917330092000,,1,India,,,India,91,0,1,,,,,5089,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,manju,,jaatmanju1985@gmail.com,,918607412290,,1,India,,,India,91,0,1,,,,,5090,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Manjeet  Singh,,jaatmanjeet1985@gmail.com,,9812006300,test@test.com,1,India,,,India,91,0,1,,,,,5091,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Tanuj Gupta,,tanuj.gupta11@gmail.com,,918950007777,,1,India,,,India,91,0,1,,,,,5092,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Rakhi RANI,,rakhiranigoyat@gmail.com,,918816880009,,1,India,,,India,91,0,1,,,,,5093,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Amit,,amitsaini24470@gmail.com,,8264040000,,1,India,,,India,91,0,1,,,,,5094,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+Mr.,Neetu,,mvneetu7@gmail.com,,918059517521,,1,India,,,India,91,0,1,,,,,5095,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Manjeet,,panchalmanjeet1988@gmai.com,,918684839317,,0,India,,,India,91,0,0,,,,,5096,,,,,,,UTC,24,dd-mm-yyyy,0
+,Manjeet,,panchalmanjeet1988@gmail.com,,918684839317,,1,India,,,India,91,0,1,,,,,5097,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sakshi  Devi,,suhagsakshi1@gmail.com,,919050450479,,1,India,,,India,91,0,1,,,,,5098,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sahil,,rahlawat1198@gmial.com,,918529191070,,0,India,,,India,91,0,0,,,,,5099,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sanjay,,pushpashrama899@gmail.com,,919813470899,,1,India,,,India,91,0,1,,,,,5100,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Manjeet Devi,,manjeetdevi228@gmail.com,,918059284374,,1,India,,,India,91,0,1,,,,,5101,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sahil,,rahlawat1198@gmail.com,,918529191070,,1,India,,,India,91,0,1,,,,,5102,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sandeep,,sandeepsandypanchal088@gmail.com,,918684839317,,1,India,,,India,91,0,1,,,,,5103,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Jagvir,,dalaljagvir595@gmail.com,,9729781814,,1,India,,,India,91,0,1,,,,,5104,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Nirmal Singh,,nirmalsingh45pz@gmail.com,,916239346759,,1,India,,,India,91,0,1,,,,,5105,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sanjay Singh,,sssbalaji1973@gmail.com,,919812746009,,0,United States,,,United States,1,0,0,,,,,5106,,,,,,,UTC,24,dd-mm-yyyy,0
+,Pushpa,,Sharmasanjay15041983@gmail.com,,919813470899,,1,India,,,India,91,0,1,,,,,5107,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,SURESH KUMAR,,rohillarohillammm@gmail.com,,917988832453,,1,India,,,India,91,0,1,,,,,5108,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Kuldeep Singh,,kharub94664@gmail.com,,919466444280,,1,India,,,India,91,0,1,,,,,5109,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Jasbir singh,,jasbirkharb148@gmail.com,,918053000690,,1,India,,,India,91,0,1,,,,,5110,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Anil  Kumar,,anildhullikkas@gmail.com,,919416388345,,1,India,,,India,91,0,1,,,,,5111,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Narayan  Chand,,narayan4punam@gmail.com,,918708165893,,1,India,,,India,91,0,1,,,,,5112,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sanjay,,sanjaynehra4436@gmail.com,,918708223347,,1,India,,,India,91,0,1,,,,,5113,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sukhbir Inshan,,Sukhbirinsa986@gmail.com,,918818000366,,1,India,,,India,91,0,1,,,,,5114,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Jitender Singh,,latherjl83@gmail.com,,919350166407,,1,India,,,India,91,0,1,,,,,5115,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Ravinder Singh,,bhinderrandhawa111@gmail.com,,919992581457,,1,India,,,India,91,0,1,,,,,5116,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Krishna Devi,,sukhvirsingh7825@gmail.com,,917027901000,,1,India,,,India,91,0,1,,,,,5117,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Rakesh Kumar,,rk554437@gmail.com,,919813485544,,1,India,,,India,91,0,1,,,,,5118,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Parvin Kaushik,,kakusharma2030@gmail.com,,7988876092,,1,India,,,India,91,0,1,,,,,5119,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sudershana,,porl12543@gmail.com,,919671953838,,0,India,,,India,91,0,0,,,,,5120,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rajiv Kumar,,rajivduhanpetwar@gmail.com,,918818007000,,1,India,,,India,91,0,1,,,,,5121,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunita,,sunitaduhan900@gmail.com,,919996252471,,1,India,,,India,91,0,1,,,,,5122,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Rajesh Kumar,,rajeshfojiludana12@gmail.com,,919813874156,,0,India,,,India,91,0,0,,,,,5123,,,,,,,UTC,24,dd-mm-yyyy,0
+,Naveen,,naveenkumar58460@gmail.com,,917988596873,,0,India,,,India,91,0,0,,,,,5124,,,,,,,UTC,24,dd-mm-yyyy,0
+,Himanshu Kumar,,ksudhanshu358@gmail.com,,918053300225,,0,India,,,India,91,0,0,,,,,5125,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rinku Ohlyan,,Rinku8683800088@gmail.com,,918683800088,,0,India,,,India,91,0,0,,,,,5126,,,,,,,UTC,24,dd-mm-yyyy,0
+Mr.,Vipin Kumar,,vipinsocial2016@gmail.com,,919817430375,,0,India,,,India,91,0,0,,,,,5127,,,,,,,UTC,24,dd-mm-yyyy,0
+,Amit  Kharb,,amit.b.kharb@gmail.com,,919215912000,,1,India,,,India,91,0,1,,,,,5128,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Mukesh Kumar,,siwachmukesh00@gmail.com,,919813742410,,1,India,,,India,91,0,1,,,,,5129,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Vipin Kumar,,realersniper@gmail.com,,919817430375,,1,India,,,India,91,0,1,,,,,5130,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Jasvir,,jasvirnehra2015@gmail.com,,918813006206,,1,India,,,India,91,0,1,,,,,5131,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Jyoti Devi,,jyotigrover7741@gmail.com,,919306850493,,0,India,,,India,91,0,0,,,,,5132,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rakesh,,rakeshnarwal3084@gmail.com,,919728702577,,1,India,,,India,91,0,1,,,,,5133,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Ravinder,,ravindermalik206@gmail.com,,919813540206,,1,India,,,India,91,0,1,,,,,5134,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunita,,Puttallydk@gmail.com,,919466444280,,1,India,,,India,91,0,1,,,,,5135,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Rajesh  Dutt,,rivajewels@gmail.com,,919653830300,,1,India,,,India,91,0,1,,,,,5136,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,AFJAL ANSARI,,MLMGLOBALNORI@GMAIL.COM,,919877337494,,0,India,,,India,91,0,0,,,,,5137,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vijender singh,,manshukalkandha@gmail.com,,918607271900,,1,India,,,India,91,0,1,,,,,5138,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Jawahar Lal,,jawaharjind@gmail.com,,919354928674,,1,India,,,India,91,0,1,,,,,5139,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sanjeev Kymar,,sanjeevdravidmlm@gmail.com,,919034280000,,0,India,,,India,91,0,0,,,,,5140,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rajesh  Kumar,,mittul.hooda@gmail.com,,919466903187,,1,India,,,India,91,0,1,,,,,5141,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Nikhil Kumar,,nikhilkr217@gmail.com,,919910749407,,0,India,,,India,91,0,0,,,,,5142,,,,,,,UTC,24,dd-mm-yyyy,0
+,Anil Kumar,,anil02363@gmail.com,,917015222250,,1,India,,,India,91,0,1,,,,,5143,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Parvesh,,parveshsangwan0101@gmail.com,,919053687969,,1,India,,,India,91,0,1,,,,,5144,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Satish Kumar,,indian0047@yahoo.com,,918569816246,,1,India,,,India,91,0,1,,,,,5145,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Surender,,Surendersharma0572@gmail.com,,917071111911,,1,India,,,India,91,0,1,,,,,5146,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Naveen Kumar,,ozonenaveen@gmail.com,,919355976400,,1,India,,,India,91,0,1,,,,,5147,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Anand  Singh,,anandsinghsangwan43391@gmail.com,,919053687969,,1,India,,,India,91,0,1,,,,,5148,,,,,,,UTC,24,dd-mm-yyyy,0
+,Meru Ram,,meharsingh89@gmail.com,,917206464164,,1,India,,,India,91,0,1,,,,,5149,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Ravi Parkash,,rishi.parkash77@gmail.com,,919467108444,,1,India,,,India,91,0,1,,,,,5150,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Kamal Singh,,kamalpannu220@gmail.com,,919467159384,,1,India,,,India,91,0,1,,,,,5151,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Surender Kumar,,surender82812@gmail.com,,919671279811,,0,India,,,India,91,0,0,,,,,5152,,,,,,,UTC,24,dd-mm-yyyy,0
+,Naveen Kumar,,ozonenaveenkumar@gmail.com,,919355976400,,0,India,,,India,91,0,0,,,,,5153,,,,,,,UTC,24,dd-mm-yyyy,0
+,Nisha,,ozonenisha87@gmail.com,,919355976400,,1,India,,,India,91,0,1,,,,,5154,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Rina,,sdkumar82812@gmail.com,,919671279811,,1,India,,,India,91,0,1,,,,,5155,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Kuldeep  Singh,,kuldeepdalal670@gmail.com,,919050071242,,1,India,,,India,91,0,1,,,,,5156,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Akash Yadav,,relationkart@gmail.com,,9953966188,,1,India,,,India,91,0,1,,,,,5157,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Asha,,shivgorkhnath3@gmail.com,,7330097000,,1,India,,,India,91,0,1,,,,,5158,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Amit  Kumar,,kalathekadar@gmail.com,,919466202051,,1,India,,,India,91,0,1,,,,,5159,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Name Last Name,,Mailid@gmail.com,,9112334567,,0,India,,,India,91,0,0,,,,,5160,,,,,,,UTC,24,dd-mm-yyyy,0
+,GANESH RAWAT,,GANESHRAWAT1995@GMAIL.COM,,918285479962,,0,India,,,India,91,0,0,,,,,5161,,,,,,,UTC,24,dd-mm-yyyy,0
+,GANESH SINGH RAWAT,,RAWATGANESH690@GMAIL.COM,,918285479962,,1,India,,,India,91,0,1,,,,,5162,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Jyoti,,kamalpannu222@gmail.com,,919467159384,,1,India,,,India,91,0,1,,,,,5163,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Ram Mehar,,sharmarammehar60@gmail.com,,919416679753,,1,India,,,India,91,0,1,,,,,5164,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Raj Kumar,,sandeepchahalaol@gmail.com,,919813871272,,1,India,,,India,91,0,1,,,,,5165,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Lokesh Vats,,lspandit420@gmail.com,,919034388826,,1,India,,,India,91,0,1,,,,,5166,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Rajesh Malik,,rajeshmalik4182@gmail.com,,919416238300,,1,India,,,India,91,0,1,,,,,5167,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,KULBIR SINGH,,kulbirsgi@gmail.com,,9671275093,,1,India,,,India,91,0,1,,,,,5168,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sohan Singh,,sonuduhan68@gmail.com,,917700011222,,1,India,,,India,91,0,1,,,,,5169,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,SONU MALIK,,SONUMALIK_CHD@HOTMAIL.COM,,919877995718,,0,India,,,India,91,0,0,,,,,5170,,,,,,,UTC,24,dd-mm-yyyy,0
+,Suman Devi,,sumanjaglan32@gmail.com,,919813655881,,1,India,,,India,91,0,1,,,,,5171,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,SONU MALIK,,malik2018sonu@gmail.com,,9877995718,,1,India,,,India,91,0,1,,,,,5172,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Kamal Vats,,kamalvats2211@gmail.com,,917900015006,,1,India,,,India,91,0,1,,,,,5173,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Krishan,,krishankhokhar654@gmail.com,,917027131048,,1,India,,,India,91,0,1,,,,,5174,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Deepak,,dpkhooda9467@gmail.com,,919253535316,,1,India,,,India,91,0,1,,,,,5175,,,,,,,UTC,24,dd-mm-yyyy,0
+,Deepak,,dahlawat803@gmail.com,,918222044488,,1,India,,,India,91,0,1,,,,,5176,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Rishipal,,rishipalsharma39@gmail.com,,917206032239,,1,India,,,India,91,0,1,,,,,5177,,,,,,,UTC,24,dd-mm-yyyy,0
+,Amritpal singh,,dksmarty@gmail.com,,9988801904,,1,India,,,India,91,0,1,,,,,5178,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,AALIM,,khanaalim123@gmail.com,,91870542708,,1,India,,,India,91,0,1,,,,,5179,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,AJAY Kumar,,ajaysiwach808@gmail.com,,918222044488,,1,India,,,India,91,0,1,,,,,5180,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sukhvir,,sukhvirs1111@gmail.com,,91702790100,,1,India,,,India,91,0,1,,,,,5181,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ankit,,ankitgoyatji347@gmail.com,,919053113824,,1,India,,,India,91,0,1,,,,,5182,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Onebtctrade,,bttradeword@gmail.com,,918222044488,,0,India,,,India,91,0,0,,,,,5183,,,,,,,UTC,24,dd-mm-yyyy,0
+,GEETA,,Bhumitcom808@gmail.com,,918222044488,,1,India,,,India,91,0,1,,,,,5184,,,,,,,UTC,24,dd-mm-yyyy,0
+,Anil Kumar,,aniljangra989@gmail.com,,919416309878,,0,India,,,India,91,0,0,,,,,5185,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ashok,,ashokchahar8269@gmail.com,,9728195583,,1,India,,,India,91,0,1,,,,,5186,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vimal  Kumar,,ronisonal2@gmail.com,,918950751050,,0,India,,,India,91,0,0,,,,,5187,,,,,,,UTC,24,dd-mm-yyyy,0
+,Parveen Kumar,,parveenbisalwas@gmail.com,,918607679760,,1,India,,,India,91,0,1,,,,,5188,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vimal Kumar,,ronitsonal2@gmail.com,,918950751050,,1,India,,,India,91,0,1,,,,,5189,,,,,,,UTC,24,dd-mm-yyyy,0
+,Chand Ram,,cr059727@gmail.com,,919813317855,,1,India,,,India,91,0,1,,,,,5190,,,,,,,UTC,24,dd-mm-yyyy,0
+,Virender,,virenderchahal102@gmail.com,,919466822233,,1,India,,,India,91,0,1,,,,,5191,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rajesh,,rajeshnarwal1999@gmail.com,,919518058610,,1,India,,,India,91,0,1,,,,,5192,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Santra Devi,,rammeharsharma1261@gmail.com,,919416679753,,0,India,,,India,91,0,0,,,,,5193,,,,,,,UTC,24,dd-mm-yyyy,0
+,Santra Devi,,rammeharsharma126161@gmail.com,,919416679753,,1,India,,,India,91,0,1,,,,,5194,,,,,,,UTC,24,dd-mm-yyyy,0
+,Amar Nath Dogra,,amardogra70@gmail.com,,919888666209,,1,India,,,India,91,0,1,,,,,5195,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Daulat Ram Dogra,,daulatramdogra1940@gmail.com,,919501278228,,1,India,,,India,91,0,1,,,,,5196,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jagjeet  Singh,,jagjeet78singh@gmail.com,,919888083582,,1,India,,,India,91,0,1,,,,,5197,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Baljit Kaur,,kaurbaljeet4999@gmail.com,,9888083582,,1,India,,,India,91,0,1,,,,,5198,,,,,,,UTC,24,dd-mm-yyyy,0
+,Deepak Kumar,,deepudada86@gmail.com,,918818017000,,1,India,,,India,91,0,1,,,,,5199,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Satnam Singh,,satnamsingh68751@gmail.com,,919781607023,,0,India,,,India,91,0,0,,,,,5200,,,,,,,UTC,24,dd-mm-yyyy,0
+,Devender,,dkkhokhar954@gmail.com,,919991148508,,1,India,,,India,91,0,1,,,,,5201,,,,,,,UTC,24,dd-mm-yyyy,0
+,Satnam Singh,,satnamsingh702323@gmail.com,,919781607023,,1,India,,,India,91,0,1,,,,,5202,,,,,,,UTC,24,dd-mm-yyyy,0
+,Parveen Sharma,,pks07.ps@gmail.com,,919877323347,,1,India,,,India,91,0,1,,,,,5203,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Kavita,,kumar002180@gmail.com,,917015702792,,1,India,,,India,91,0,1,,,,,5204,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Virender,,vrishoda5465@gmail.com,,919996262473,,1,India,,,India,91,0,1,,,,,5205,,,,,,,UTC,24,dd-mm-yyyy,0
+,Virender,,virshoda5465@gmail.com,,919996262473,,0,India,,,India,91,0,0,,,,,5206,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vijender  Singh,,vkharb70@gmeil.com,,919306112930,,0,India,,,India,91,0,0,,,,,5207,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vijender Kharb,,vkharb70@gmail.com,,919306112930,,1,India,,,India,91,0,1,,,,,5208,,,,,,,UTC,24,dd-mm-yyyy,0
+,Amritpal  Singh,,amrit.b9041@gmail.com,,919041902908,,1,India,,,India,91,0,1,,,,,5209,,,,,,,UTC,24,dd-mm-yyyy,0
+,anita,,anitaprizm@gmail.com,,8930008933,,1,India,,,India,91,0,1,,,,,5210,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,prmod kumar,,relationgrup20@gmail.com,,918532808171,,0,India,,,India,91,0,0,,,,,5211,,,,,,,UTC,24,dd-mm-yyyy,0
+,Pramod kumar solanki,,relationgroup20@gmail.com,,918532808171,,1,India,,,India,91,0,1,,,,,5212,,,,,,,UTC,24,dd-mm-yyyy,0
+,Deepak,,ds5305241@gmail.com,,911111111111,,1,India,,,India,91,0,1,,,,,5213,,,,,,,UTC,24,dd-mm-yyyy,0
+,Girish chandra kashyap,,relationindia06@gmail.com,,919368141530,,1,India,,,India,91,0,1,,,,,5214,,,,,,,UTC,24,dd-mm-yyyy,0
+,Mohsin ali khan,,mohsinalikhanspn@gmail.com,,918707616679,,1,India,,,India,91,0,1,,,,,5215,,,,,,,UTC,24,dd-mm-yyyy,0
+,BANTI,,nikhilkmr215@gmail.com,,918683014103,,1,India,,,India,91,0,1,,,,,5216,,,,,,,UTC,24,dd-mm-yyyy,0
+,Arunoday kumar gupta,,arunodaykummar@gmail.com,,918825240558,,1,India,,,India,91,0,1,,,,,5217,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Jitender,,balhraji@gmail.com,,919996666576,,1,India,,,India,91,0,1,,,,,5218,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Poonam,,zorbatranding@gmail.com,,919813540206,,1,India,,,India,91,0,1,,,,,5219,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rainu Devi,,rainuvargoti@gmail.com,,917080632123,,1,India,,,India,91,0,1,,,,,5220,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Ashok kumar Gupta,,tanuj.gupta2810@gmail.com,,918950007777,,1,India,,,India,91,0,1,,,,,5221,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,RAJINDER KUMAR,,nar.kumar.prajapati@gmail.com,,917009808281,,1,India,,,India,91,0,1,,,,,5222,,,,,,,UTC,24,dd-mm-yyyy,0
+,Manoj  Kumar,,mchandel948@gmail.com,,918816912180,,0,India,,,India,91,0,0,,,,,5223,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jiwan Kalikotay,,direct2jjwan@gmail.com,,917001733804,,0,India,,,India,91,0,0,,,,,5224,,,,,,,UTC,24,dd-mm-yyyy,0
+,Balwinder singh,,balwinderjot131313@gmail.com,,916239968861,,1,India,,,India,91,0,1,,,,,5225,,,,,,,UTC,24,dd-mm-yyyy,0
+,Pranjal Kumar,,pranjalk953@gmail.com,,919368788510,,1,India,,,India,91,0,1,,,,,5226,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sukhwinder Kaur,,sukhwinderkaurg16@gmail.com,,917814953829,,1,India,,,India,91,0,1,,,,,5227,,,,,,,UTC,24,dd-mm-yyyy,0
+,Suresh Chander,,sureshchander70@gamail.com,,919813255881,,0,India,,,India,91,0,0,,,,,5228,,,,,,,UTC,24,dd-mm-yyyy,0
+,GULSHAN KUMAR,,gulshankumarbnl@gmail.com,,917527909936,,1,India,,,India,91,0,1,,,,,5229,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Seema  Devi,,vinodattri41@gmail.com,,919466766501,,1,India,,,India,91,0,1,,,,,5230,,,,,,,UTC,24,dd-mm-yyyy,0
+,Unique Griffin,,uniquebusinessthings@gmail.com,,8782220228,,0,United States,,,United States,1,0,0,,,,,5231,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kulwinder,,kulwindersingh9896@gmail.com,,918264040000,,1,India,,,India,91,0,1,,,,,5232,,,,,,,UTC,24,dd-mm-yyyy,0
+,pawan kumar,,nrnoblerealties@gmail.com,,918077316867,,1,India,,,India,91,0,1,,,,,5233,,,,,,,UTC,24,dd-mm-yyyy,0
+,pawan kumar,,rkravindra1991@gamil.com,,918077316867,,0,India,,,India,91,,0,,,,,5234,,,,,,,UTC,24,dd-mm-yyyy,0
+,Chander Pal,,cpli007@gmail.com,,8607000147,,1,India,,,India,91,,1,,,,,5235,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Virender Singh,,virendersinghduhan51@gmail.com,,918950331001,,1,India,,,India,91,,1,,,,,5236,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunil,,skbhan@live.com,,919354090905,,1,India,,,India,91,,1,,,,,5237,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunil Kumar,,sunil.pisawa21@gmail.com,,919759333379,,0,United States,,,United States,1,,0,,,,,5238,,,,,,,UTC,24,dd-mm-yyyy,0
+,RAJWINDER KAUR,,agamjasraj2018@gmail.com,,918012660009,,1,India,,,India,91,,1,,,,,5239,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vikrant Singh,,vikrantsingh73009@gmail.com,,919467273009,,0,India,,,India,91,,0,,,,,5240,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vikrant Singh,,vikrantsingh.ldw@gmail.com,,919467273009,,0,India,,,India,91,,0,,,,,5241,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vikas,,vikasgoyat1993@gmail.com,,918800402070,,1,India,,,India,91,,1,,,,,5242,,,,,,,UTC,24,dd-mm-yyyy,0
+,Anil kumar,,anilhindustanbsr@gmail.com,,919759467811,,0,India,,,India,91,,0,,,,,5243,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rakesh,,rakeshpannu6786@gmail.com,,919991283777,,1,India,,,India,91,,1,,,,,5244,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunil kumar Saxena,,vertex103@gnail.com,,919999293719,,0,India,,,India,91,,0,,,,,5245,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunil kumar Saxena,,vertex103@gmail.com,,919999293719,,1,India,,,India,91,,1,,,,,5246,,,,,,,UTC,24,dd-mm-yyyy,0
+,Nishi,,nishi2250@gmail.com,,919911840438,,1,India,,,India,91,,1,,,,,5247,,,,,,,UTC,24,dd-mm-yyyy,0
+,Natasha Kundra,,natashakundra802@gmail.com,,918595670587,,0,India,,,India,91,,0,,,,,5248,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ramdev Gangle,,ramdevgangle@gmail.com,,917879787311,,0,India,,,India,91,,0,,,,,5249,,,,,,,UTC,24,dd-mm-yyyy,0
+,Hemant kumar Meena,,yatihemant396@gmail.com,,918146632396,,1,India,,,India,91,,1,,,,,5250,,,,,,,UTC,24,dd-mm-yyyy,0
+,Savita Devi,,savitadevi1224@gmail.com,,9728702577,,1,India,,,India,91,,1,,,,,5251,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ramesh Chander,,rameshvats92@gmail.com,,919991448792,,1,India,,,India,91,,1,,,,,5252,,,,,,,UTC,24,dd-mm-yyyy,0
+,Santro Devi,,santro9292@gmail.com,,919991448792,,1,India,,,India,91,,1,,,,,5253,,,,,,,UTC,24,dd-mm-yyyy,0
+,Parshant Vats,,parshantvats777@gmail.com,,919991448792,,1,India,,,India,91,,1,,,,,5254,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sheetal,,sheetalvats1603@gmail.com,,919991448792,,1,India,,,India,91,,1,,,,,5255,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ramesh Chander,,rameshvats65@gmail.com,,919991448792,,0,India,,,India,91,,0,,,,,5256,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ramesh Chander,,rameshvats9292@gmail.com,,9991448792,,1,India,,,India,91,,1,,,,,5257,,,,,,,UTC,24,dd-mm-yyyy,0
+,Abhi Bali,,abhibaliabhibali051@gmail.com,,7404476660,,1,India,,,India,91,,1,,,,,5258,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sanjeev Kumar,,skbhan112@gmail.com,,91909428000,,1,India,,,India,91,,1,,,,,5259,,,,,,,UTC,24,dd-mm-yyyy,0
+,Suresh Chander,,sureshkhokhar1978@gmail.com,,919354928667,,1,India,,,India,91,,1,,,,,5260,,,,,,,UTC,24,dd-mm-yyyy,0
+,Surinder Kaur,,gurnoorsimran37@gmail.com,,919813311467,,0,India,,,India,91,,0,,,,,5261,,,,,,,UTC,24,dd-mm-yyyy,0
+,javed,,javedarman58@gmail.com,,917357779676,,1,India,,,India,91,,1,,,,,5262,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Gurdit Singh,,guri81199@gmail.com,,919779407803,,1,India,,,India,91,,1,,,,,5263,,,,,,,UTC,24,dd-mm-yyyy,0
+,PREETI RANI  VERMA,,preetiarorabnl@gmail.com,,918728067795,,0,India,,,India,91,,0,,,,,5264,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kuldeep Singh,,ks3245653@gmail.com,,919914228071,,0,India,,,India,91,,0,,,,,5265,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ritika,,ritika97997@gmail.com,,918264758397,,1,India,,,India,91,,1,,,,,5266,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,RAJINDER KUMAR,,rajinderkumar7919@gmail.com,,917009808281,,0,India,,,India,91,,0,,,,,5267,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sahil,,indoras638@gmail.com,,9817213895,,1,India,,,India,91,,1,,,,,5268,,,,,,,UTC,24,dd-mm-yyyy,0
+,Yashpal Singh,,yashpal.singh27@gmail.com,,916398851869,,1,India,,,India,91,,1,,,,,5269,,,,,,,UTC,24,dd-mm-yyyy,0
+,SUKHPAL  SINGH MARAHAR,,sukhpalsinghmarahar@gmail.com,,919592074001,,1,India,,,India,91,,1,,,,,5270,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Natasha Kundra,,forexnatasha123@gmail.com,,8595670587,,1,India,,,India,91,,1,,,,,5271,,,,,,,UTC,24,dd-mm-yyyy,0
+,vivek kumar ram,,vivekirontradesharemarket@gmail.com,,917645945405,,1,India,,,India,91,,1,,,,,5272,,,,,,,UTC,24,dd-mm-yyyy,0
+,Reena devi,,kumar002180@yahoo.com,,919355065949,,1,India,,,India,91,,1,,,,,5273,,,,,,,UTC,24,dd-mm-yyyy,0
+,Pradum  Singh,,pradumsing2016@gmail.com,,919648224709,,0,India,,,India,91,,0,,,,,5274,,,,,,,UTC,24,dd-mm-yyyy,0
+,Naresh shamlal thakare,,nthakre045@gmail.com,,919922488075,,1,India,,,India,91,,1,,,,,5275,,,,,,,UTC,24,dd-mm-yyyy,0
+,NATER  SINGH,,Nater.marahar@gmail.com,,9914010922,,1,India,,,India,91,,1,,,,,5276,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Lokesh Sharma,,lokeshsharma01011992@gmail.com,,919319773451,,0,India,,,India,91,,0,,,,,5277,,,,,,,UTC,24,dd-mm-yyyy,0
+,Balwinder  Singh,,balwinderbhateri@gmail.com,,919803788450,,0,India,,,India,91,,0,,,,,5278,,,,,,,UTC,24,dd-mm-yyyy,0
+,Mandeep Singh,,mandeepsandhu1317@gmail.com,,919417019619,,1,India,,,India,91,,1,,,,,5279,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,RAKESH  SHARMA,,rk.bhardwaj1971@gmail.com,,917889110197,,1,India,,,India,91,,1,,,,,5280,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,shivani verma,,shivaniverma1675@gmail.com,,918725937970,,1,India,,,India,91,,1,,,,,5281,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Shiv kumar,,shivbpo@gmail.com,,917043912326,,0,India,,,India,91,,0,,,,,5282,,,,,,,UTC,24,dd-mm-yyyy,0
+,Munesh,,muneshd321@gmail.com,,919416719254,,0,India,,,India,91,,0,,,,,5283,,,,,,,UTC,24,dd-mm-yyyy,0
+,JAY KHATRI,,RCZJAY@GMAIL.COM,,917227801313,,0,India,,,India,91,,0,,,,,5284,,,,,,,UTC,24,dd-mm-yyyy,0
+,vishwajeet srivastava,,citylif.s@gmail.com,,919838530952,,0,India,,,India,91,,0,,,,,5285,,,,,,,UTC,24,dd-mm-yyyy,0
+,shiv kumar,,shivfxcrypto@yahoo.com,,917600048237,,0,India,,,India,91,,0,,,,,5286,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rozy Hasija,,rozyhasija02@gmail.com,,918920219062,,0,India,,,India,91,,0,,,,,5287,,,,,,,UTC,24,dd-mm-yyyy,0
+,Meenu Devi,,mor839991@gmail.com,,919306139634,,1,India,,,India,91,,1,,,,,5288,,,,,,,UTC,24,dd-mm-yyyy,0
+,Samee Akhtar,,mdsamee2212@gmail.com,,18210396768,,0,United States,,,United States,1,,0,,,,,5289,,,,,,,UTC,24,dd-mm-yyyy,0
+,Munesh,,muneshd231@gmail.com,,919416719254,,1,India,,,India,91,,1,,,,,5290,,,,,,,UTC,24,dd-mm-yyyy,0
+,Mahender Singh,,sonuduhan430@gmail.com,,917700011222,,1,India,,,India,91,,1,,,,,5291,,,,,,,UTC,24,dd-mm-yyyy,0
+,Annu,,annunarwal1225@gmail.com,,9728702577,,1,India,,,India,91,,1,,,,,5292,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rekha,,rekhammmbsc@gmail.com,,917988832453,,1,India,,,India,91,,1,,,,,5293,,,,,,,UTC,24,dd-mm-yyyy,0
+,Adarsh Kushwaha,,adarshkushwaha001234@gmail.com,,919682015282,,0,India,,,India,91,,0,,,,,5294,,,,,,,UTC,24,dd-mm-yyyy,0
+,mohit bajaj,,bajajmohit1@gmail.com,,919215500719,,1,India,,,India,91,,1,,,,,5295,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Ashish Arora,,ash.aroraaaa@gmail.com,,919877764452,,1,India,,,India,91,,1,,,,,5296,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,RUKHSAR  BANO,,NEHAKHN72@GMAIL.COM,,919340515793,,1,India,,,India,91,,1,,,,,5297,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Pardeep Singh,,pksinhmar4@gmail.com,,917015583809,,1,India,,,India,91,,1,,,,,5298,,,,,,,UTC,24,dd-mm-yyyy,0
+,Govind Kushvaha,,kushwahag925@gmail.com,,917054315810,,0,India,,,India,91,,0,,,,,5299,,,,,,,UTC,24,dd-mm-yyyy,0
+,Darshna,,rajeshnarwal2020@gmail.com,,9729279192,,1,India,,,India,91,,1,,,,,5300,,,,,,,UTC,24,dd-mm-yyyy,0
+,NIRAJ KUMAR,,nirajnishad3410@gmail.com,,919977253410,,0,India,,,India,91,,0,,,,,5301,,,,,,,UTC,24,dd-mm-yyyy,0
+,KULVEER  SINGH MATHAROO,,kulveermatharoo@gmail.com,,9814526416,,1,India,,,India,91,,1,,,,,5302,,,,,,,UTC,24,dd-mm-yyyy,0
+,SANDEEP SINGH,,ghanaursandeep@gmail.com,,919464514874,,1,India,,,India,91,,1,,,,,5303,,,,,,,UTC,24,dd-mm-yyyy,0
+,SHIVKUMAR KALIYAN ADIDRAVIDAN,,shiv@shivfxcrypto.com,,917600048237,,1,India,,,India,91,,1,,,,,5304,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,sarbjeet singh,,amarjit.future@gmail.com,,916284704551,,1,India,,,India,91,,1,,,,,5305,,,,,,,UTC,24,dd-mm-yyyy,0
+,Gurpreet Singh,,sidhu.gurpreet5007@gmail.com,,919855175007,,1,India,,,India,91,,1,,,,,5306,,,,,,,UTC,24,dd-mm-yyyy,0
+,Karamjit  singh,,karamjittibba@gmail.com,,919855175007,,1,India,,,India,91,,1,,,,,5307,,,,,,,UTC,24,dd-mm-yyyy,0
+,Gurvinder Singh,,pacificmechanicalpunjab@gmail.com,,919781701011,,1,India,,,India,91,,1,,,,,5308,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Kuldeep Singh,,ks4835644@gmail.com,,919914228071,,1,India,,,India,91,,1,,,,,5309,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,DHANJAY INTERNATIONAL,,nitin.singh.tomer19@gmail.com,,919584724224,,0,India,,,India,91,,0,,,,,5310,,,,,,,UTC,24,dd-mm-yyyy,0
+,DHANJAY INTERNATIONAL,,bhanuprataptomar14@gmail.com,,919584724224,,1,India,,,India,91,,1,,,,,5311,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Meenakshi,,meenakshigoyat@gmail.com,,919466666380,,0,India,,,India,91,,0,,,,,5312,,,,,,,UTC,24,dd-mm-yyyy,0
+,Meenakshi,,meenakshigoyat92@gmail.com,,919466666380,,1,India,,,India,91,,1,,,,,5313,,,,,,,UTC,24,dd-mm-yyyy,0
+,NARENDER SANEJA,,sanejanarender@gmail.com,,919312583140,,1,India,,,India,91,,1,,,,,5314,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,MANOJ  RAJPUT,,manojrajput19777@gmail.com,,918285852982,,1,India,,,India,91,,1,,,,,5315,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Rajan Rajan,,groverrajan943@gmail.com,,918059521672,,0,India,,,India,91,,0,,,,,5316,,,,,,,UTC,24,dd-mm-yyyy,0
+,Anju,,anjupannu44@gmail.com,,919671255881,,1,India,,,India,91,,1,,,,,5317,,,,,,,UTC,24,dd-mm-yyyy,0
+,RAJ KUMAR,,kumarrajdhamouli@gmail.com,,918360327139,,1,India,,,India,91,,1,,,,,5318,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunil kumar,,sunildhamoli@gmail.com,,917428867340,,1,India,,,India,91,,1,,,,,5319,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Kavita,,dhuruvji@gmail.com,,919996666576,,1,India,,,India,91,,1,,,,,5320,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Rajesh Kumar,,rajesh29203@gmail,,918571052060,,0,India,,,India,91,,0,,,,,5321,,,,,,,UTC,24,dd-mm-yyyy,0
+,Himanshi,,shribalajienterprise691@gmail.com,,917330092000,,1,India,,,India,91,,1,,,,,5322,,,,,,,UTC,24,dd-mm-yyyy,0
+,Geeta Dhull,,surajdhull74@gmail.com,,918168869795,,1,India,,,India,91,,1,,,,,5323,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Anil Kumar,,ak09999901@gmail.com,,19729148911,,0,United States,,,United States,1,,0,,,,,5324,,,,,,,UTC,24,dd-mm-yyyy,0
+,AMANDEEP SINGH,,saels.maraharpower@gmail.com,,919815946985,,0,India,,,India,91,,0,,,,,5325,,,,,,,UTC,24,dd-mm-yyyy,0
+,AMANDEEP SINGH,,sales.maraharpower@gmail.com,,9815946985,,1,India,,,India,91,,1,,,,,5326,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ravish chander Bajaj,,bmsoftsol@gmail.com,,919215500719,,1,India,,,India,91,,1,,,,,5327,,,,,,,UTC,24,dd-mm-yyyy,0
+,Shyamle lalji Pasi,,shyamle.paswan@gmail.com,,919004937307,,1,India,,,India,91,,1,,,,,5328,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rachna Bajaj,,rachnabajaj77@gmail.com,,919215500719,,1,India,,,India,91,,1,,,,,5329,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ranju Singhal,,ranjugarg85@gmail.com,,917069360888,,1,India,,,India,91,,1,,,,,5330,,,,,,,UTC,24,dd-mm-yyyy,0
+,Raj kumar,,singhalranju02@gmail.com,,917069360888,,1,India,,,India,91,,1,,,,,5331,,,,,,,UTC,24,dd-mm-yyyy,0
+,Navin Kochhar,,navinkochhar@gmail.com,,919872367777,,0,India,,,India,91,,0,,,,,5332,,,,,,,UTC,24,dd-mm-yyyy,0
+,Satish Kumar,,satishbeniwal85@gmail.com,,919991813400,,1,India,,,India,91,,1,,,,,5333,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Savita,,savita.rst@gmail.com,,919671255881,,1,India,,,India,91,,1,,,,,5334,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rajiv Kumar,,rajivsingroha@gmail.com,,919802100841,,1,India,,,India,91,,1,,,,,5335,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Rajesh Kumar,,rajesh29203@gmail.com,,918571052060,,1,India,,,India,91,,1,,,,,5336,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ram Roop,,mmukesh185@gmail.com,,919729466833,,1,India,,,India,91,,1,,,,,5337,,,,,,,UTC,24,dd-mm-yyyy,0
+,suraj bhan,,surajbhan51802@gmail.com,,917719655459,,1,India,,,India,91,,1,,,,,5338,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,kulvinder singh,,kulvinder0011@gmail.com,,919466546331,,1,India,,,India,91,,1,,,,,5339,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Abhishek Seet,,abhishekaviator18@gmail.com,,916361537165,,1,India,,,India,91,,1,,,,,5340,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,vishal yadav,,yvishal295@gmail.com,,916395015817,,1,India,,,India,91,,1,,,,,5341,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sandeep Beniwal,,sandeepsingh85612@gmail.com,,8059590077,,1,India,,,India,91,,1,,,,,5342,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kashmir Singh,,vijendermd@gmail.com,,917988878495,,1,India,,,India,91,,1,,,,,5343,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,BALABHADRA MAHAPATRO,,BALABHADRA.MAHAPATRA@GMAIL.COM,,917894555575,,1,India,,,India,91,,1,,,,,5344,,,,,,,UTC,24,dd-mm-yyyy,0
+,sujit kumar,,sujitkumarfx@gmail.com,,#ERROR!,,1,India,,,India,91,,1,,,,,5345,,,,,,,UTC,24,dd-mm-yyyy,0
+,NARINDER  KUMAR,,jonijindal1981@gmail.com,,919729519365,,0,India,,,India,91,,0,,,,,5346,,,,,,,UTC,24,dd-mm-yyyy,0
+,Birmati,,birmatiji@gmail.com,,919996666920,,0,India,,,India,91,,0,,,,,5347,,,,,,,UTC,24,dd-mm-yyyy,0
+,Birmati,,jitenderbalhra@gmail.com,,919996666920,,1,India,,,India,91,,1,,,,,5348,,,,,,,UTC,24,dd-mm-yyyy,0
+,Dhirander verma,,dhiranderverma@gmail.com,,919213545861,,1,India,,,India,91,,1,,,,,5349,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Arvinder Singh,,asdhiman52@gmail.com,,9814502855,,1,India,,,India,91,,1,,,,,5350,,,,,,,UTC,24,dd-mm-yyyy,0
+,VINOD KUMAR GARG,,vkgarg1775@gmail.com,,919855221183,,1,India,,,India,91,,1,,,,,5351,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,paramjit Singh,,sonu24randhawa@gmail.com,,9996848715,,1,India,,,India,91,,1,,,,,5352,,,,,,,UTC,24,dd-mm-yyyy,0
+,Mohit,,hunnyrana287@gmail.com,,917015900697,,1,India,,,India,91,,1,,,,,5353,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ajay Kumar,,ajayrana4441@gmail.com,,919727924441,,1,India,,,India,91,,1,,,,,5354,,,,,,,UTC,24,dd-mm-yyyy,0
+,Manjeet Singh,,Manjeetsinghnarwal754@gmail.com,,918059900900,,1,India,,,India,91,,1,,,,,5355,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Rohtash,,rohtashvats92@gmail.com,,919991448792,,1,India,,,India,91,,1,,,,,5356,,,,,,,UTC,24,dd-mm-yyyy,0
+,Narinder Kumar,,jindaljoni1981@gmail.com,,919729519365,,1,India,,,India,91,,1,,,,,5357,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Vikas Beniwal,,dpahsr@gmail.com,,919812209333,,1,India,,,India,91,,1,,,,,5358,,,,,,,UTC,24,dd-mm-yyyy,0
+,Bittan Masih,,bittanmasih.2014@gmail.com,,917009165310,,1,India,,,India,91,,1,,,,,5359,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Chand Ram,,chandrammc89@gmail.com,,919768716000,,1,India,,,India,91,,1,,,,,5360,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Jai  Bhagwan,,jaibhagwansharma085@gmail.com,,919991448792,,1,India,,,India,91,,1,,,,,5361,,,,,,,UTC,24,dd-mm-yyyy,0
+,Monika Devi,,monikayadav10984@gmail.com,,917988050189,,1,India,,,India,91,,1,,,,,5362,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sushma,,sushmavats2211@gmail.com,,919991448792,,1,India,,,India,91,,1,,,,,5363,,,,,,,UTC,24,dd-mm-yyyy,0
+,Gamze Oruc,,gamzeoruc27@gmail.com,,359879412098,,0,Bulgaria,,,Bulgaria,359,,0,,,,,5364,,,,,,,UTC,24,dd-mm-yyyy,0
+,GURDIT SINGH,,gs1752620@gmail.com,,917878113137,,1,India,,,India,91,,1,,,,,5365,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,NITYA AGGARWAL,,Singh.chahal0077@gmail.com,,919671410008,,1,India,,,India,91,,1,,,,,5366,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sanjay Singh,,drsanjaynarwal1973@gmail.com,,918907740089,,1,India,,,India,91,,1,,,,,5367,,,,,,,UTC,24,dd-mm-yyyy,0
+,Satpal Singh,,satpalsinghchahal007@gmail.com,,919347700007,,1,India,,,India,91,,1,,,,,5368,,,,,,,UTC,24,dd-mm-yyyy,0
+,Salinder Singh,,jaat81473@gmail.com,,91767876702030,,1,India,,,India,91,,1,,,,,5369,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kapil,,narwal292@gmail.com,,919466658794,,1,India,,,India,91,,1,,,,,5370,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sandeep Nain,,sandeepnain800@gmail.com,,918396010001,,1,India,,,India,91,,1,,,,,5371,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sanjay  Kumar,,Sanjaymalik1050@gmail.com,,918053621050,,1,India,,,India,91,,1,,,,,5372,,,,,,,UTC,24,dd-mm-yyyy,0
+,RADHEY SHYAM JATAV,,montimahipal29@gmail.com,,919996898087,,1,India,,,India,91,,1,,,,,5373,,,,,,,UTC,24,dd-mm-yyyy,0
+,Nishant Antil,,aboota00@gmail.com,,919910749407,,1,India,,,India,91,,1,,,,,5374,,,,,,,UTC,24,dd-mm-yyyy,0
+,Geeta Kumari,,khoondgeetu@gmail.com,,919418001295,,1,India,,,India,91,,1,,,,,5375,,,,,,,UTC,24,dd-mm-yyyy,0
+,Pradeep  Kumar,,pkdagar49@gmail.com,,917988054682,,1,India,,,India,91,,1,,,,,5376,,,,,,,UTC,24,dd-mm-yyyy,0
+,Mani P,,manimala2310@gmail.com,,919866190498,,0,India,,,India,91,,0,,,,,5377,,,,,,,UTC,24,dd-mm-yyyy,0
+,SHIV CHARAN DEEP,,mba.shiv@gmail.com,,9417556194,,1,India,,,India,91,,1,,,,,5378,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Rakesh Sharma,,sharmachanchal9095@gmail.com,,91000000000,,0,India,,,India,91,,0,,,,,5379,,,,,,,UTC,24,dd-mm-yyyy,0
+,Naseem Ahmad,,naseemmansuri200@gmail.com,,919501133991,,1,India,,,India,91,,1,,,,,5380,,,,,,,UTC,24,dd-mm-yyyy,0
+,BIR BAHADUR Singh,,birsinghlion001@gmail.com,,919871148552,,0,India,,,India,91,,0,,,,,5381,,,,,,,UTC,24,dd-mm-yyyy,0
+,Anant  Singh,,anantking94157@gmail.com,,919935648287,,0,India,,,India,91,,0,,,,,5382,,,,,,,UTC,24,dd-mm-yyyy,0
+,Deepak  Malik,,Deepakmalik1191@gmail.com,,919466903187,,1,India,,,India,91,,1,,,,,5383,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Monika,,monikasingh89u@gmail.com,,919501133991,,1,India,,,India,91,,1,,,,,5384,,,,,,,UTC,24,dd-mm-yyyy,0
+,Manjeet,,abcrrm5005@gmail.com,,9813888660,,1,India,,,India,91,,1,,,,,5385,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Vaibhav Sambhaji  Tomke,,vaibhavtomke92@gmail.com,,919284966347,,0,India,,,India,91,,0,,,,,5386,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ashok,,ashokhooda7@gmail.com,,7015356797,,1,India,,,India,91,,1,,,,,5387,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,jagmeet singh,,jagmeetbagri07@gmail.com,,919855427008,,0,India,,,India,91,,0,,,,,5388,,,,,,,UTC,24,dd-mm-yyyy,0
+,Hardeep Singh,,hardeep22555@gmail.com,,919463310140,,0,India,,,India,91,,0,,,,,5389,,,,,,,UTC,24,dd-mm-yyyy,0
+,Pankaj,,ahlawattrader1@gmail.com,,917056919755,,1,India,,,India,91,,1,,,,,5390,,,,,,,UTC,24,dd-mm-yyyy,0
+,burak sen,,buraksenfx@gmail.com,,905385401663,,0,Turkey,,,Turkey,90,,0,,,,,5391,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rajesh Kumar,,rajeshkajal872@gmail.com,,919416101872,,1,India,,,India,91,,1,,,,,5392,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Shalesh Nain,,SHALESHNAIN@GMAIL.COM,,919671953838,,1,India,,,India,91,,1,,,,,5393,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jagbir,,Jagbiragroha@gmail.com,,919416477853,,1,India,,,India,91,,1,,,,,5394,,,,,,,UTC,24,dd-mm-yyyy,0
+,PREM  KUMAR,,mannatgrouplimited@gmail.com,,919664378688,,0,India,,,India,91,,0,,,,,5395,,,,,,,UTC,24,dd-mm-yyyy,0
+,Anita,,anita.ahlawat24@gmail.com,,918222922922,,1,India,,,India,91,,1,,,,,5396,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,GURPREET SINGH,,gurpreet54.job@gmail.com,,919896375448,,0,India,,,India,91,,0,,,,,5397,,,,,,,UTC,24,dd-mm-yyyy,0
+,Mehmed Sylemez,,soylemez.mehmed@gmail.com,,905073558338,,1,Turkey,,,Turkey,90,,1,,,,,5398,,,,,,,UTC,24,dd-mm-yyyy,0
+,Mehmet Soylemez,,soylemez.mehmed@hotmail.com,,905073558338,,0,Turkey,,,Turkey,90,,0,,,,,5399,,,,,,,UTC,24,dd-mm-yyyy,0
+,vinod kumar,,vinodvardan77@gmail.com,,918813947439,,1,India,,,India,91,,1,,,,,5400,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Amit Goel,,amitgoyal4001@gmail.com,,919812715300,,1,India,,,India,91,,1,,,,,5401,,,,,,,UTC,24,dd-mm-yyyy,0
+,Yesh Pal,,yashpaljangra8370@gmail.com,,918398848370,,1,India,,,India,91,,1,,,,,5402,,,,,,,UTC,24,dd-mm-yyyy,0
+,mukesh kumar,,mk906419@gmail.com,,918607135650,,1,India,,,India,91,,1,,,,,5403,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Amit Kumar,,malik88amitkumar66@gmail.com,,919050402056,,1,India,,,India,91,,1,,,,,5404,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sudhir Lathwal,,sudhirlathwal1006@gmail.com,,919991381006,,1,India,,,India,91,,1,,,,,5405,,,,,,,UTC,24,dd-mm-yyyy,0
+,man ching chau,,vincentchau410@gmail.com,,85268899098,,1,Hong Kong S.A.R.,,,Hong Kong S.A.R.,852,,1,,,,,5406,,,,,,,UTC,24,dd-mm-yyyy,0
+,Erkan aytek,,erkanaytek@gmail.com,,905354688080,,0,Turkey,,,Turkey,90,,0,,,,,5407,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sudhir kumar,,prichahal9700@gmail.com,,919813933146,,1,India,,,India,91,,1,,,,,5408,,,,,,,UTC,24,dd-mm-yyyy,0
+,PINKI DEVI,,mukesh906419@gmail.com,,918607135650,,1,India,,,India,91,,1,,,,,5409,,,,,,,UTC,24,dd-mm-yyyy,0
+,RAHUL,,ownvogue1@gmail.com,,917009165310,,1,India,,,India,91,,1,,,,,5410,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Parminder Singh,,psbassi75@gmail.com,,919417166714,,1,India,,,India,91,,1,,,,,5411,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sukhwinder Singh,,sukhwinder9089@gmail.com,,918012400055,,1,India,,,India,91,,1,,,,,5412,,,,,,,UTC,24,dd-mm-yyyy,0
+,Amit Kumar,,amitsingroha88@gmail.com,,918168598588,,1,India,,,India,91,,1,,,,,5413,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Gurmel singh,,gurmailsingh04041972@gmail.com,,918360327139,,1,India,,,India,91,,1,,,,,5414,,,,,,,UTC,24,dd-mm-yyyy,0
+,Bijender Singh,,ruderkataria998@gmail.com,,918199810262,,1,India,,,India,91,,1,,,,,5415,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Ajay,,ajju.ahlawat3400@gmail.com,,919363000000,,1,India,,,India,91,,1,,,,,5416,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sahil,,ajjuraja.ahlawat3400@gmail.com,,919363000000,,1,India,,,India,91,,1,,,,,5417,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Ashok Kumar,,aknicer@gmail.com,,918950600545,,1,India,,,India,91,,1,,,,,5418,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ajay Kumar Gupta,,ajaykgupta8008@gmail.com,,918218982087,,1,India,,,India,91,,1,,,,,5419,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Aditya Tiwari,,adityat429@gmail.com,,918199810262,,1,India,,,India,91,,1,,,,,5420,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Vijay Siwach,,Vijaysiwach1988@gmail.com,,918199810262,,1,India,,,India,91,,1,,,,,5421,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Saiyam,,saiyamsiwachuk@gmail.com,,918199810262,,1,India,,,India,91,,1,,,,,5422,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Pankaj,,pankajkochar01@gmail.com,,919812221222,,1,India,,,India,91,,1,,,,,5423,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Mandeep Singh,,mandeepsingh7621@gmail.com,,919468063411,,1,India,,,India,91,,1,,,,,5424,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ajit Singh,,Asbhullar0608@gmail.com,,919068190681,,1,India,,,India,91,,1,,,,,5425,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Anil Kumar,,Sanjeevdravidmlm1@gmail.com,,919094280000,,1,India,,,India,91,,1,,,,,5426,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Pargat Singh,,Pskataria38@gmial.com,,919363000000,,0,India,,,India,91,,0,,,,,5427,,,,,,,UTC,24,dd-mm-yyyy,0
+,Balvinder Singh,,viokhana@gmail.com,,918708245667,,0,India,,,India,91,,0,,,,,5428,,,,,,,UTC,24,dd-mm-yyyy,0
+,Pargat Singh,,Pargats7470@gmail.com,,917347227470,,1,India,,,India,91,,1,,,,,5429,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,test,,kimharuethai@gmail.com,,1.11111E+15,,1,United States,,,United States,1,,1,,,,,5430,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rekha Rani,,mayank901797335489@gmail.com,,918168218694,,1,India,,,India,91,,1,,,,,5431,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Hemant Kumar,,MRPANDITJI3030@GMAIL.COM,,919350387481,,1,India,,,India,91,,1,,,,,5432,,,,,,,UTC,24,dd-mm-yyyy,0
+,Aman Gulia,,aman.gulia.13@gmail.com,,919518609854,,0,India,,,India,91,,0,,,,,5433,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jitender Dalal,,jitendertdalal@gmail.com,,919350908556,,0,India,,,India,91,,0,,,,,5434,,,,,,,UTC,24,dd-mm-yyyy,0
+,Manju,,manjurathi3@gmail.com,,917777002122,,1,India,,,India,91,,1,,,,,5435,,,,,,,UTC,24,dd-mm-yyyy,0
+,Surender Kumar,,surenderkaushik33sk@gmail.com,,919728391486,,1,India,,,India,91,,1,,,,,5436,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Pradeep Srivastava,,pradeep.srivastava1460@gmail.com,,917875308877,,0,India,,,India,91,,0,,,,,5437,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ravinder Kumar,,ahlawat.182@gmail.com,,919466307776,,1,India,,,India,91,,1,,,,,5438,,,,,,,UTC,24,dd-mm-yyyy,0
+,bhupinder singh,,bhupindersinghchechi1977@gmail.com,,9041388546,,0,India,,,India,91,,0,,,,,5439,,,,,,,UTC,24,dd-mm-yyyy,0
+,Deepak Kumar,,deepakksinghroha555@gmail.com,,919050051358,,0,India,,,India,91,,0,,,,,5440,,,,,,,UTC,24,dd-mm-yyyy,0
+,Karambir,,bhawananarwal1223@gmail.com,,919728702577,,1,India,,,India,91,,1,,,,,5441,,,,,,,UTC,24,dd-mm-yyyy,0
+,Deepak Kumar,,Deepakksingroha555@gmail.com,,919050051358,,1,India,,,India,91,,1,,,,,5442,,,,,,,UTC,24,dd-mm-yyyy,0
+,Dinesh,,dineshbhanwalajatram@gmail.com,,918512846000,,1,India,,,India,91,,1,,,,,5443,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jitender,,jd5081394@gmail.com,,919588376071,,1,India,,,India,91,,1,,,,,5444,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Devender Kumar,,jeetdalal2020@gmail.com,,918307046686,,1,India,,,India,91,,1,,,,,5445,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Kajal khanna,,kajukhanna1298@gmail.com,,919996054085,,1,India,,,India,91,,1,,,,,5446,,,,,,,UTC,24,dd-mm-yyyy,0
+,satyabhan rathore,,satya0136n@gmail.com,,919399915490,,1,India,,,India,91,,1,,,,,5447,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sewak  Singh,,sewaklic@gmail.com,,918729009500,,1,India,,,India,91,,1,,,,,5448,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Anuradha,,asbhullar0708@gmail.com,,919068190681,,1,India,,,India,91,,1,,,,,5449,,,,,,,UTC,24,dd-mm-yyyy,0
+,Surender Pal,,surendervats1978@gmail.com,,919896335373,,1,India,,,India,91,,1,,,,,5450,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jaivinder,,jaivinderkuk1383@gmail.com,,9050951383,,1,India,,,India,91,,1,,,,,5451,,,,,,,UTC,24,dd-mm-yyyy,0
+,Anil,,drsonu48@gmail.com,,919416309878,,1,India,,,India,91,,1,,,,,5452,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Anil Kumar,,anilchahal69@gmail.com,,919416061369,,1,India,,,India,91,,1,,,,,5453,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunil,,sunilchodhary85@gmail.com,,919729741830,,0,India,,,India,91,,0,,,,,5454,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunil,,sunilchodhari85@gmail.com,,919729741830,,1,India,,,India,91,,1,,,,,5455,,,,,,,UTC,24,dd-mm-yyyy,0
+,SUKHPAL SINGH,,sukhpalaman@gmail.com,,917973242696,,1,India,,,India,91,,1,,,,,5456,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kuldeep Rana,,kuldeepranag@gmail.com,,919760955644,,0,India,,,India,91,,0,,,,,5457,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kuldeep,,kuldeepjangra3107@gmail.com,,919896899437,,1,India,,,India,91,,1,,,,,5458,,,,,,,UTC,24,dd-mm-yyyy,0
+,Arvinder  Singh,,arvindersingh100123@gmail.com,,918053569436,,1,India,,,India,91,,1,,,,,5459,,,,,,,UTC,24,dd-mm-yyyy,0
+,Seema,,seemasiwach3077@gmail.com,,918076952699,,1,India,,,India,91,,1,,,,,5460,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Jaswinder Kaur,,jaswindermarahar777@gmail.com,,919914010922,,1,India,,,India,91,,1,,,,,5461,,,,,,,UTC,24,dd-mm-yyyy,0
+,Charanjit Singh,,speqtagroup@gmail.com,,919613009500,,1,India,,,India,91,,1,,,,,5462,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Vikash Malik,,vkmalik9466754@gmail.com,,919466754842,,1,India,,,India,91,,1,,,,,5463,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Savitri Devi,,sanjeevdravidmlm2@gmail.com,,9094280000,,1,India,,,India,91,,1,,,,,5464,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Vikas Kumar,,divyanshgorish11@gmail.com,,9729951117,,1,India,,,India,91,,1,,,,,5465,,,,,,,UTC,24,dd-mm-yyyy,0
+,Poonam,,deepakksingroha777@gmail.com,,917988654989,,1,India,,,India,91,,1,,,,,5466,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Devender,,singrohabina111@gmail.com,,917988654989,,1,India,,,India,91,,1,,,,,5467,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Joginder Singh,,joginder0701@gmail.com,,917015900697,,1,India,,,India,91,,1,,,,,5468,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jaswinder Kaur,,natermarahar143@gmail.com,,919914010922,,1,India,,,India,91,,1,,,,,5469,,,,,,,UTC,24,dd-mm-yyyy,0
+,Simran Kadiyan,,simrankadyan123@gmail.com,,917206825765,,1,India,,,India,91,,1,,,,,5470,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Jitender Yadav,,jitender.k.arya3014@gmail.com,,919050051358,,1,India,,,India,91,,1,,,,,5471,,,,,,,UTC,24,dd-mm-yyyy,0
+,Anish khan,,anish1310khan@gmail.com,,917015900697,,1,India,,,India,91,,1,,,,,5472,,,,,,,UTC,24,dd-mm-yyyy,0
+,Prem Singh,,prem1010singh@gmail.com,,917015900697,,1,India,,,India,91,,1,,,,,5473,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Jai  Bhagwan,,jaibhagwangoswami1991@gmail.com,,919034466067,,1,India,,,India,91,,1,,,,,5474,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,MELAT SATTAM,,zkwan46betar@gmail.com,,905425307790,,0,Turkey,,,Turkey,90,,0,,,,,5475,,,,,,,UTC,24,dd-mm-yyyy,0
+,Priya,,ajimal.simar1011@gmail.com,,919856009500,,1,India,,,India,91,,1,,,,,5476,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Priyanka  Rani,,anshbeta61000@gmail.com,,919813933146,,1,India,,,India,91,,1,,,,,5477,,,,,,,UTC,24,dd-mm-yyyy,0
+,Darshna,,darshna012345@gmail.com,,919253535316,,1,India,,,India,91,,1,,,,,5478,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Gulab Din,,gulabdin3156@gmail.com,,919416534520,,1,India,,,India,91,,1,,,,,5479,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Suchit Hooda,,ktikhamkha@gmail.com,,919253535316,,1,India,,,India,91,,1,,,,,5480,,,,,,,UTC,24,dd-mm-yyyy,0
+,Surender,,surender627@gmail.com,,917252012612,,0,India,,,India,91,,0,,,,,5481,,,,,,,UTC,24,dd-mm-yyyy,0
+,Surender,,surenderb627@gmail.com,,917252012612,,1,India,,,India,91,,1,,,,,5482,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Suresh Kumar Sheoran,,sureshsheoran1962@gmail.com,,919817904653,,0,India,,,India,91,,0,,,,,5483,,,,,,,UTC,24,dd-mm-yyyy,0
+,Serdar Aydogan,,serdaraydogan0707@hotmail.com,,905059807607,,0,Turkey,,,Turkey,90,,0,,,,,5484,,,,,,,UTC,24,dd-mm-yyyy,0
+,Anirudh  Sharma,,as4996074@gmail.com,,917210371103,,1,India,,,India,91,,1,,,,,5485,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Neelam Singh,,shibuverma201@gmail.com,,919518884345,,1,India,,,India,91,,1,,,,,5486,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Joginder Singh,,sonus3329@gmail.com,,919466508010,,1,India,,,India,91,,1,,,,,5487,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,ANIRUDH  SHARMA,,SHARMARAHUL83472@GMAIL.COM,,917210371103,,0,India,,,India,91,,0,,,,,5488,,,,,,,UTC,24,dd-mm-yyyy,0
+,AHMET FEDAOULLARI,,dekortas.alci@gmail.com,,905445347979,,0,Turkey,,,Turkey,90,,0,,,,,5489,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vijender Singh,,vijendersiwach1982@gmail.com,,919812288618,,1,India,,,India,91,,1,,,,,5490,,,,,,,UTC,24,dd-mm-yyyy,0
+,Dhomase Ravindra Naburao,,khushi2nasik@gmail.com,,919322122071,,0,India,,,India,91,,0,,,,,5491,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kuldeep,,kulmor@gmail.com,,917357485799,,0,India,,,India,91,,0,,,,,5492,,,,,,,UTC,24,dd-mm-yyyy,0
+,Navjeet  Singh,,Navjeetsinghvirdi@gmail.com,,919915253122,,1,India,,,India,91,,1,,,,,5493,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Pinki Devi,,jatmanjeet1985@gmail.com,,919812006300,,1,India,,,India,91,,1,,,,,5494,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Yashwant Singh,,yash42062@gmail.com,,919729095107,,1,India,,,India,91,,1,,,,,5495,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Geeta,,veersingh2642012@gmail.com,,919468451390,,1,India,,,India,91,,1,,,,,5496,,,,,,,UTC,24,dd-mm-yyyy,0
+,GURJEET  SINGH,,jassijeee@gmail.com,,919781120076,,1,India,,,India,91,,1,,,,,5497,,,,,,,UTC,24,dd-mm-yyyy,0
+,Manisha,,yashwantsingroha19@gmail.com,,9729095107,,0,India,,,India,91,,0,,,,,5498,,,,,,,UTC,24,dd-mm-yyyy,0
+,Manisha,,ys842291@gmail.com,,919729095107,,1,India,,,India,91,,1,,,,,5499,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sanjay,,aastharabbit@gmail.com,,919813846500,,1,India,,,India,91,,1,,,,,5500,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sumita Rani,,rsumita059@gmail.com,,91946150130,,0,India,,,India,91,,0,,,,,5501,,,,,,,UTC,24,dd-mm-yyyy,0
+,Surjeet  Singh,,Surjeetmalik58@gmali.com,,918930325095,,0,India,,,India,91,,0,,,,,5502,,,,,,,UTC,24,dd-mm-yyyy,0
+,Surjeet  Singh,,surjeetmalik58@gmail.com,,918930325095,,1,India,,,India,91,,1,,,,,5503,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Vikas Lathwal,,vikaslathwal89757@gmail.com,,919812133093,,1,India,,,India,91,,1,,,,,5504,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Avtar Singh Kaler,,Avtarsinghkaler@ymail.com,,919855544409,,1,India,,,India,91,,1,,,,,5505,,,,,,,UTC,24,dd-mm-yyyy,0
+,Pardeep,,kuldeepdalal183@gmail.com,,919050071242,,1,India,,,India,91,,1,,,,,5506,,,,,,,UTC,24,dd-mm-yyyy,0
+,Shamer Singh,,shamerpannu1993@gmail.com,,919728278088,,1,India,,,India,91,,1,,,,,5507,,,,,,,UTC,24,dd-mm-yyyy,0
+,Tarun  Goel,,tgoelindia@gmail.com,,916397746304,,0,India,,,India,91,,0,,,,,5508,,,,,,,UTC,24,dd-mm-yyyy,0
+,Pardeep,,pardeepnarwal616@gmail.com,,9812363616,,1,India,,,India,91,,1,,,,,5509,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sankutla,,rameshwarcloud@gmail.com,,9996363572,,1,India,,,India,91,,1,,,,,5510,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,atilla elmas,,atillaelmas27@gmail.com,,905426119266,,0,Turkey,,,Turkey,90,,0,,,,,5511,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sandeep Kumar,,sandeepdeswal920@gmail.com,,8053192193,,1,India,,,India,91,,1,,,,,5512,,,,,,,UTC,24,dd-mm-yyyy,0
+,Suresh Kumar,,sharmasuresh7049@gmail.com,,918053885338,,1,India,,,India,91,,1,,,,,5513,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Randhir Singh,,randhir0286@gmail.com,,919416233283,,1,India,,,India,91,,1,,,,,5514,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Gurmeet Kaur,,kjasdfa@gmai.com,,919729775134,,0,India,,,India,91,,0,,,,,5515,,,,,,,UTC,24,dd-mm-yyyy,0
+,praviin mahajan,,praviinmahajan@gmail.com,,919354720515,,1,India,,,India,91,,1,,,,,5516,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Karamvir,,karamvirdeshwal105@gmail.com,,917015502657,,1,India,,,India,91,,1,,,,,5517,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rakesh Kumar Sindhu,,rakeshsindhu68@gmail.com,,919466550396,,1,India,,,India,91,,1,,,,,5518,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kuldeep Singh,,latherkuldeep638@gmail.com,,919896610095,,1,India,,,India,91,,1,,,,,5519,,,,,,,UTC,24,dd-mm-yyyy,0
+,Riya Gupta,,riyagupta199592@gmail.com,,918825240558,,1,India,,,India,91,,1,,,,,5520,,,,,,,UTC,24,dd-mm-yyyy,0
+,Pawan Kumar,,hthakur246@gmail.com,,917986954118,,0,India,,,India,91,,0,,,,,5521,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rameshwar,,rameshwarrohilla1962@gmail.com,,919467368796,,0,India,,,India,91,,0,,,,,5522,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rameshwar,,rameshwarrohilla588@gmail.com,,919467368796,,1,India,,,India,91,,1,,,,,5523,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Manjeet,,mhooda923@gmail.com,,919813812447,,1,India,,,India,91,,1,,,,,5524,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunny Kushwah,,sun.kushwah@gmail.com,,916260555985,,1,India,,,India,91,,1,,,,,5525,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Ashish,,ashishdalal507@gmail.com,,919728856155,,1,India,,,India,91,,1,,,,,5526,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunil Kumari,,kdalal630@gmail.com,,919050071242,,1,India,,,India,91,,1,,,,,5527,,,,,,,UTC,24,dd-mm-yyyy,0
+,Soniya,,nishuantil343@gmail.com,,919518884345,,1,India,,,India,91,,1,,,,,5528,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Rajesh Kharb,,rajeshkharb987@gmail.com,,919312275003,,1,India,,,India,91,,1,,,,,5529,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sanjeev Kumar,,kes.businessindia@gmail.com,,919717796959,,0,India,,,India,91,,0,,,,,5530,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sanjeev Kumar,,vri.sanjeev@gmail.com,,919717796959,,0,India,,,India,91,,0,,,,,5531,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jagdeep singh Kharb,,jagddepkharb@gmail.com,,919812347709,,1,India,,,India,91,,1,,,,,5532,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunny Kushwah,,sunnysnipertrader@gmail.com,,916260555985,,0,India,,,India,91,,0,,,,,5533,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jaswinder KAUR,,jaswindersidhuflp@gmail.com,,919682641278,,1,India,,,India,91,,1,,,,,5534,,,,,,,UTC,24,dd-mm-yyyy,0
+,Parmila,,parmila01011982@gmail.com,,919812544543,,1,India,,,India,91,,1,,,,,5535,,,,,,,UTC,24,dd-mm-yyyy,0
+,Parmila,,parmila9389@gmail.com,,919812544543,,1,India,,,India,91,,1,,,,,5536,,,,,,,UTC,24,dd-mm-yyyy,0
+,Dharmender,,dh.dahiya@gmail.com,,9812544543,,1,India,,,India,91,,1,,,,,5537,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunny Kushwah,,mr.sunnykushwah@gmail.com,,8827087234,,1,India,,,India,91,,1,,,,,5538,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Ajay Panchal,,ajayfxking2021@gmail.com,,917489655810,,1,India,,,India,91,,1,,,,,5539,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Ramniwas,,Ramniwaslather2017@gmail.com,,917988942722,,0,India,,,India,91,,0,,,,,5540,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ramniwas,,Ramniwaslather16111979@gmail.com,,917988942722,,1,India,,,India,91,,1,,,,,5541,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jitender Kumar,,bablugoyat1419@gmail.com,,919992155450,,1,India,,,India,91,,1,,,,,5542,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rajbir Singh,,rajbirsingh34@gmail.com,,919485912174,,0,India,,,India,91,,0,,,,,5543,,,,,,,UTC,24,dd-mm-yyyy,0
+,Purshotam ranghera,,lordofforexpuru@gmail.com,,919718083078,,0,India,,,India,91,,0,,,,,5544,,,,,,,UTC,24,dd-mm-yyyy,0
+,NASEER SHAIKH,,startandgrow2020@gmail.com,,7972863815,,0,India,,,India,91,,0,,,,,5545,,,,,,,UTC,24,dd-mm-yyyy,0
+,Cengiz Karakoc,,renkweb@gmail.com,,5322345139,,0,Turkey,,,Turkey,90,,0,,,,,5546,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kamlesh,,srrohilla17@gmail.com,,9728269959,,1,India,,,India,91,,1,,,,,5547,,,,,,,UTC,24,dd-mm-yyyy,0
+,Serdar  Bac,,black_0171@hotmail.com,,905065373223,,0,Turkey,,,Turkey,90,,0,,,,,5548,,,,,,,UTC,24,dd-mm-yyyy,0
+,PUNAM KUMARI,,punam9783@gmail.com,,8708165893,,1,India,,,India,91,,1,,,,,5549,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rajbir   Singh,,8708376848manoj@gmail.com,,919466712986,,1,India,,,India,91,,1,,,,,5550,,,,,,,UTC,24,dd-mm-yyyy,0
+,Harpreet  Singh,,vikhona@yahoo.com,,15146218560,,0,Canada,,,Canada,1,,0,,,,,5551,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kirshan Kumar,,kirshanduhan018@gmail.com,,919996252471,,0,India,,,India,91,,0,,,,,5552,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kirshan Kumar,,krishanduhan018@gmai,,919996252471,,0,India,,,India,91,,0,,,,,5553,,,,,,,UTC,24,dd-mm-yyyy,0
+,Robert Lewandowski,,soxaxog622@eamarian.com,,48456456456,,0,Poland,,,Poland,48,,0,,,,,5554,,,,,,,UTC,24,dd-mm-yyyy,0
+,NASEER AKHTAR SHAIKH,,iamnaseer8551990778@gmail.com,,7972863815,,1,India,,,India,91,,1,,,,,5555,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Santosh,,dhiranrw@gmail.com,,919416233283,,1,India,,,India,91,,1,,,,,5556,,,,,,,UTC,24,dd-mm-yyyy,0
+,KIRAN,,kiranmann122@gmail.com,,919205126994,,1,India,,,India,91,,1,,,,,5557,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,VIKRAM SINGH,,singhkhatkarvikram@gmail.com,,9466723000,,1,India,,,India,91,,1,,,,,5558,,,,,,,UTC,24,dd-mm-yyyy,0
+,Pardeep Kumar,,diamond.pradeepchauhan@gmail.com,,919350404389,,1,India,,,India,91,,1,,,,,5559,,,,,,,UTC,24,dd-mm-yyyy,0
+,Anita,,diamondajju3400@gmail.com,,919363000000,,1,India,,,India,91,,1,,,,,5560,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Priya,,sukhvirsingh9001@gmail.com,,917027901000,,1,India,,,India,91,,1,,,,,5561,,,,,,,UTC,24,dd-mm-yyyy,0
+,Joginder Singh,,Sheokandjoginder84@gmail.com,,919958190465,,1,India,,,India,91,,1,,,,,5562,,,,,,,UTC,24,dd-mm-yyyy,0
+,Pawan Kumar,,pawansharma7699@gmail.com,,919416588498,,1,India,,,India,91,,1,,,,,5563,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,ROHIT,,rohitduhan1999@gmail.com,,919017854953,,1,India,,,India,91,,1,,,,,5564,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jawahar Lal,,jawaharlala079@gmail.com,,919354928674,,1,India,,,India,91,,1,,,,,5565,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rajesh Kumar,,singraj82@gmail.com,,918109462953,,1,India,,,India,91,,1,,,,,5566,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Shakuntla,,sdpetwariya13@gmail.com,,919812241405,,1,India,,,India,91,,1,,,,,5567,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Ramesh Kumar,,bsrsss6@gmail.com,,919466532821,,1,India,,,India,91,,1,,,,,5568,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,sonu,,sdpetwariya@gmail.com,,919812241405,,1,India,,,India,91,,1,,,,,5569,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,sanjeev kumar,,uarindia8@gmail.com,,919717796959,,1,India,,,India,91,,1,,,,,5570,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Jubayer NC,,jubayer.nc124@gmail.com,,8801681493934,,1,Bangladesh,,,Bangladesh,880,,1,,,,,5571,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Nitin Sinha,,Sinhanitin2000@gmail.com,,919518884345,,1,India,,,India,91,,1,,,,,5572,,,,,,,UTC,24,dd-mm-yyyy,0
+,Pawan Saini,,Pawanbbp@gmail.com,,9017606026,,1,India,,,India,91,,1,,,,,5573,,,,,,,UTC,24,dd-mm-yyyy,0
+,Harinderjit Singh,,happyharinder1968@gmail.com,,9878829888,,1,India,,,India,91,,1,,,,,5574,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vishal  Gupta,,hdshweta00@gmail.com,,917977371601,,0,India,,,India,91,,0,,,,,5575,,,,,,,UTC,24,dd-mm-yyyy,0
+,Monu,,duhanbunty11@gmail.com,,919812241405,,1,India,,,India,91,,1,,,,,5576,,,,,,,UTC,24,dd-mm-yyyy,0
+,Pradeep Kumar,,pradeep.race89@gmail.com,,919559593563,,0,India,,,India,91,,0,,,,,5577,,,,,,,UTC,24,dd-mm-yyyy,0
+,Happy Happy,,fxhappy9x@gmail.com,,917787363737,,0,United States,,,United States,1,,0,,,,,5578,,,,,,,UTC,24,dd-mm-yyyy,0
+,Harpreet Singh,,harpreet14387@gmail.com,,919465794154,,1,India,,,India,91,,1,,,,,5579,,,,,,,UTC,24,dd-mm-yyyy,0
+,Parvinder Singh,,town709@gmail.com,,9813290717,,1,India,,,India,91,,1,,,,,5580,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vugar Alakbarov,,dr.alakbarov@hotmail.com,,905322303339,,1,Turkey,,,Turkey,90,,1,,,,,5581,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ashok  kumar,,ashokdalal7135@gmail.com,,919813377721,,1,India,,,India,91,,1,,,,,5582,,,,,,,UTC,24,dd-mm-yyyy,0
+,Pardeep kumar,,pnain718@gmail.com,,917206050000,,1,India,,,India,91,,1,,,,,5583,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Dinesh,,Vishwakarmadinesh5809@gmail.com,,919301728787,,1,India,,,India,91,,1,,,,,5584,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sudhir Singh,,Sudhirr.singhh@gmail.com,,919729768410,,1,India,,,India,91,,1,,,,,5585,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Hanuman Sahay,,Hanuman1043@gmail.com,,919929025953,,1,India,,,India,91,,1,,,,,5586,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Rajender Singh,,rajendernarwal76@gmail.com,,919813345133,,1,India,,,India,91,,1,,,,,5587,,,,,,,UTC,24,dd-mm-yyyy,0
+,Manjeet Kumar,,manjeeth65@gmail.com,,917015711931,,1,India,,,India,91,,1,,,,,5588,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ganesh Mehta,,creativeganesh15@gmail.com,,919877734054,,0,India,,,India,91,,0,,,,,5589,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jitendra Jain,,jitwin97@gmail.com,,918233036828,,1,India,,,India,91,,1,,,,,5590,,,,,,,UTC,24,dd-mm-yyyy,0
+,Narender Kumar,,Ns786076@gmail.com,,919813023248,,0,India,,,India,91,,0,,,,,5591,,,,,,,UTC,24,dd-mm-yyyy,0
+,Neeraj Dewan,,ddc614@gmail.com,,919215500719,,1,India,,,India,91,,1,,,,,5592,,,,,,,UTC,24,dd-mm-yyyy,0
+,Manmohan Singh,,montyin2016@gmail.com,,917814777306,,1,India,,,India,91,,1,,,,,5593,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Rajveer singh,,rajvirsingh199013@gmail.com,,8054720668,,1,India,,,India,91,,1,,,,,5594,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vinod Kumar,,vinod5014139@gmail.com,,919402802659,,1,India,,,India,91,,1,,,,,5595,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kajal Rani,,kalugurjar3978@gmail.com,,918930026652,,1,India,,,India,91,,1,,,,,5596,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Jasvir Singh,,jasvirlotey80@gmail.com,,917888851554,,0,India,,,India,91,,0,,,,,5597,,,,,,,UTC,24,dd-mm-yyyy,0
+,Pradeep Chauhan,,chauhanpardeep804@gmail.com,,919690372723,,1,India,,,India,91,,1,,,,,5598,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jyoti Dhomse,,jaysainathforex@gmail.com,,9978673384,,0,India,,,India,91,,0,,,,,5599,,,,,,,UTC,24,dd-mm-yyyy,0
+,Dilip Kumar Panda,,dilippanda922@gmail.com,,919040313017,,1,India,,,India,91,,1,,,,,5600,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sangita Dubey,,manaskritarth@gmail.com,,918052069427,,1,India,,,India,91,,1,,,,,5601,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kunj,,kunjduhan5@gmail.com,,9729775134,,1,India,,,India,91,,1,,,,,5602,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Manjeet,,manjeetduhant@gmail.com,,919812241405,,1,India,,,India,91,,1,,,,,5603,,,,,,,UTC,24,dd-mm-yyyy,0
+,Narender,,santy9254@gmail.com,,9254661053,,1,India,,,India,91,,1,,,,,5604,,,,,,,UTC,24,dd-mm-yyyy,0
+,YOGESH SUBHASH HELGAND,,yogeshhelgand4@gmail.com,,919604428089,,1,India,,,India,91,,1,,,,,5605,,,,,,,UTC,24,dd-mm-yyyy,0
+,abc abc,,abc@abc.com,,1111111111,,0,United States,,,United States,1,,0,,,,,5606,,,,,,,UTC,24,dd-mm-yyyy,0
+,mohd jameel,,financialservices784@gmail.com,,917298530786,,0,India,,,India,91,,0,,,,,5607,,,,,,,UTC,24,dd-mm-yyyy,0
+,Hardeep Singh,,hardeepbadshapur21@gmail.com,,919592009584,,1,India,,,India,91,,1,,,,,5608,,,,,,,UTC,24,dd-mm-yyyy,0
+,Harwinder Singh,,sharwinder230@gmail.com,,919815673929,,1,India,,,India,91,,1,,,,,5609,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunil Kumar,,neeljaipur@gmail.com,,919416034834,,1,India,,,India,91,,1,,,,,5610,,,,,,,UTC,24,dd-mm-yyyy,0
+,Moji Ram,,mojiram5@gmail.com,,919813956030,,1,India,,,India,91,,1,,,,,5611,,,,,,,UTC,24,dd-mm-yyyy,0
+,Neelam,,singroha.ramesh@gmail.com,,917988259091,,1,India,,,India,91,,1,,,,,5612,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Paramvir,,paramggn@gmail.com,,918826521476,,1,India,,,India,91,,1,,,,,5613,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ajay,,ajay.bamel19@gmail.com,,919528859678,,1,India,,,India,91,,1,,,,,5614,,,,,,,UTC,24,dd-mm-yyyy,0
+,Deepanshu Kaushik,,kaushikdeepanshu12.dk@gmail.com,,111111111,,1,India,,,India,91,,1,,,,,5615,,,,,,,UTC,24,dd-mm-yyyy,0
+,Karam Pal,,anupiyushjangra1@gmail.com,,919050009092,,1,India,,,India,91,,1,,,,,5616,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sahil Gaba,,findbajajs@gmail.com,,917988213628,,0,India,,,India,91,,0,,,,,5617,,,,,,,UTC,24,dd-mm-yyyy,0
+,Naveen,,gusaing107@gmail.com,,919416268668,,1,India,,,India,91,,1,,,,,5618,,,,,,,UTC,24,dd-mm-yyyy,0
+,ajay kumar,,ajay1998kumar@rediffmail.com,,916006609762,,0,India,,,India,91,,0,,,,,5619,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sahil Gaba,,bajajvidhi04@gmail.com,,917988213628,,1,India,,,India,91,,1,,,,,5620,,,,,,,UTC,24,dd-mm-yyyy,0
+,Santokh Singh,,ssresum007@gmail.com,,918803618954,,0,India,,,India,91,,0,,,,,5621,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sajjjan,,sajjans7519@gmail.com,,919466603305,,1,India,,,India,91,,1,,,,,5622,,,,,,,UTC,24,dd-mm-yyyy,0
+,Manoj Kumar,,mkmphs8@gmail.com,,919306541209,,1,India,,,India,91,,1,,,,,5623,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sanjay,,sanjayrang43@gmail.com,,919466778568,,0,India,,,India,91,,0,,,,,5624,,,,,,,UTC,24,dd-mm-yyyy,0
+,sanjay,,sanjayranga43@gmail.com,,919466778568,,1,India,,,India,91,,1,,,,,5625,,,,,,,UTC,24,dd-mm-yyyy,0
+,guru ji,,krishnaprakashojha@gmail.com,,198764322567,,0,United States,,,United States,1,,0,,,,,5626,,,,,,,UTC,24,dd-mm-yyyy,0
+,Mahipal  Sharma,,sonimahival09@gmail.com,,9215092100,,0,United States,,,United States,1,,0,,,,,5627,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ravinder verma,,ravimv1998@gmail.com,,919992931141,,0,India,,,India,91,,0,,,,,5628,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vijay Kumar,,9311vky@gmail.com,,919311961305,,1,India,,,India,91,,1,,,,,5629,,,,,,,UTC,24,dd-mm-yyyy,0
+,mi iv,,meae@abv.bg,,35902918273,,0,Bulgaria,,,Bulgaria,359,,0,,,,,5630,,,,,,,UTC,24,dd-mm-yyyy,0
+,Mariela Evtimova,,evtimovamariela47@gmail.com,,359878259411,,0,Bulgaria,,,Bulgaria,359,,0,,,,,5631,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rakesh  Kumar,,rks.d63@gmail.com,,9311961305,,1,India,,,India,91,,1,,,,,5632,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ashish Mor,,ashishmor9@gmail.com,,919728820068,,1,India,,,India,91,,1,,,,,5633,,,,,,,UTC,24,dd-mm-yyyy,0
+,TEJ KUMAR,,infotraxim@gmail.com,,919215842042,,0,India,,,India,91,,0,,,,,5634,,,,,,,UTC,24,dd-mm-yyyy,0
+,asd asd,,barobertopaz16@outlook.com,,148646168,,0,United States,,,United States,1,,0,,,,,5635,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sandeep singh Drall,,mdrall50@gmail.com,,919818717197,,1,India,,,India,91,,1,,,,,5636,,,,,,,UTC,24,dd-mm-yyyy,0
+,Satish Kumar,,sknarwal70@gmail.com,,919499183370,,1,India,,,India,91,,1,,,,,5637,,,,,,,UTC,24,dd-mm-yyyy,0
+,Shelly Ghai,,shellyghai3@gmail.com,,919464000020,,1,India,,,India,91,,1,,,,,5638,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Haney Kumar Kathuria,,kathuria_1989@gmail.com,,9878167779,,0,India,,,India,91,,0,,,,,5639,,,,,,,UTC,24,dd-mm-yyyy,0
+,Honey Kumar kathuria,,kathuria_1989@yahoo.com,,919878167779,,1,India,,,India,91,,1,,,,,5640,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunita Devi,,Sunita26005@gmail.com,,919315426005,,1,India,,,India,91,,1,,,,,5641,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Balvinder  Singh,,singhroha.balvinder@gmail.com,,919466711244,,1,India,,,India,91,,1,,,,,5642,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sudesh,,pk8752965@gmail.com,,917015070000,,1,India,,,India,91,,1,,,,,5643,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Manoj,,bgtmanojkataria@gmail.com,,917419910051,,0,India,,,India,91,,0,,,,,5644,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jaikishan,,jaikishandabas012345@gmail.com,,917015668080,,1,India,,,India,91,,1,,,,,5645,,,,,,,UTC,24,dd-mm-yyyy,0
+,Bimla,,baljitdabla86@gmail.com,,919728172698,,1,India,,,India,91,,1,,,,,5646,,,,,,,UTC,24,dd-mm-yyyy,0
+,Suresh Kumar,,sireshchohan8855@gmail.com,,918053384355,,1,India,,,India,91,,1,,,,,5647,,,,,,,UTC,24,dd-mm-yyyy,0
+,sanjeev kumar,,royudityaindia@gmail.com,,91971117796959,,1,India,,,India,91,,1,,,,,5648,,,,,,,UTC,24,dd-mm-yyyy,0
+,Aditya  Bhardwaj,,adityanikhil@hotmail.com,,919810137350,,0,India,,,India,91,,0,,,,,5649,,,,,,,UTC,24,dd-mm-yyyy,0
+,Shubham Marathe,,Shubhammarathe1997@gmail.com,,919165662113,,1,India,,,India,91,,1,,,,,5650,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vansh Kathuria,,vansh.kathuria@yahoo.in,,919711283281,,1,India,,,India,91,,1,,,,,5651,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sonu,,sonu.sewal1@yahoo.com,,919996061592,,1,India,,,India,91,,1,,,,,5652,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Rishi Gupta,,carishigupta02@gmail.com,,918447184220,,1,India,,,India,91,,1,,,,,5653,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rajender Singh,,maliksingh65@gmail.com,,919467136190,,1,India,,,India,91,,1,,,,,5654,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Bruh Hebehahay,,hshsgshwhagagag@hehehehehej,,,,0,United States,,,United States,1,,0,,,,,5655,,,,,,,UTC,24,dd-mm-yyyy,0
+,Bruhh Shshzggsgsg,,lennyhoseasa@gmail.com,,,,0,United States,,,United States,1,,0,,,,,5656,,,,,,,UTC,24,dd-mm-yyyy,0
+,Gurvinder  Singh,,gurwinders2895141@gmail.com,,8360311638,,1,India,,,India,91,,1,,,,,5657,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Pinki,,bluedreams1706@gmail.com,,9416380959,,1,India,,,India,91,,1,,,,,5658,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Subhash Sharma,,subhash14761@gmail.com,,9416380959,,1,India,,,India,91,,1,,,,,5659,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Anju Sharma,,anjusharma97281@gmail.com,,,,0,India,,,India,91,,0,,,,,5660,,,,,,,UTC,24,dd-mm-yyyy,0
+,Anju Sharma,,anjusharma97291@gmail.com,,9416380959,,1,India,,,India,91,,1,,,,,5661,,,,,,,UTC,24,dd-mm-yyyy,0
+,Manoj  Kumar,,mr001.manojpandey@gmail.com,,6260555985,,1,India,,,India,91,,1,,,,,5662,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunny Kushwah,,snipertraderindia@gmail.com,,6260555985,,0,India,,,India,91,,0,,,,,5663,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sarbjot singh,,sarbjotseemar6@gmail.com,,9023676671,,1,India,,,India,91,,1,,,,,5664,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Ajay Panchal,,ajaypanchal4647@gmail.com,,6260555985,,0,India,,,India,91,,0,,,,,5665,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kavita Devi,,laabsingh@rediffmail.com,,,,0,India,,,India,91,,0,,,,,5666,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kavita Devi,,laabhsingh@rediffmail.com,,7015512686,,1,India,,,India,91,,1,,,,,5667,,,,,,,UTC,24,dd-mm-yyyy,0
+,Satyanarayan Bairwa,,sattu1171983@gmail.com,,9116874933,,1,India,,,India,91,,1,,,,,5668,,,,,,,UTC,24,dd-mm-yyyy,0
+,Surajmal,,surajlohanjind@gmail.com,,7015796739,,1,India,,,India,91,,1,,,,,5669,,,,,,,UTC,24,dd-mm-yyyy,0
+,SANTOSH KUMAR BEHERA,,santoshkaibrat@gmail.com,,9040545405,,1,India,,,India,91,,1,,,,,5670,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ravi Gupta,,ravi.samgupta007@gmail.com,,,,1,India,,,India,91,,1,,,,,5671,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,GM Khan,,gmkhan141996@gmail.com,,,,1,India,,,India,91,,1,,,,,5672,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,M Mithun,,mithun1713@gmail.com,,,,0,India,,,India,91,,0,,,,,5673,,,,,,,UTC,24,dd-mm-yyyy,0
+,Bhabadyuti Nayak,,bhabadyuti9@gmail.com,,,,0,India,,,India,91,,0,,,,,5674,,,,,,,UTC,24,dd-mm-yyyy,0
+,Abcd Abcd,,agfxneteller8290@gmail.com,,,,0,United States,,,United States,1,,0,,,,,5675,,,,,,,UTC,24,dd-mm-yyyy,0
+,Devender Singh,,devmanana1000@gmail.com,,7015572287,,1,India,,,India,91,,1,,,,,5676,,,,,,,UTC,24,dd-mm-yyyy,0
+,Umed singh,,umedgulia19@gmail.com,,,,0,India,,,India,91,,0,,,,,5677,,,,,,,UTC,24,dd-mm-yyyy,0
+,Umed Singh,,2010umedsingh@gmail.com,,8708299512,,1,India,,,India,91,,1,,,,,5678,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Bhera Ram,,indiaoneteam@gmail.com,,8118878181,,1,India,,,India,91,,1,,,,,5679,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kamal Hasan,,kamal90hasan@gmail.com,,7404900059,,1,India,,,India,91,,1,,,,,5680,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Satish Kumar,,satishkatariya94@gmail.com,,9467457109,,1,India,,,India,91,,1,,,,,5681,,,,,,,UTC,24,dd-mm-yyyy,0
+,Aakanksha,,pihu0813y@gmail.com,,7015969886,,1,India,,,India,91,,1,,,,,5682,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Preety Bhimra,,preetygulia2010@gmail.com,,7015969886,,1,India,,,India,91,,1,,,,,5683,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Akash Yadav,,yadav.caakash@gmail.com,,9310135890,,1,India,,,India,91,,1,,,,,5684,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vikas,,sonu0813y@gmail.com,,8708299512,,1,India,,,India,91,,1,,,,,5685,,,,,,,UTC,24,dd-mm-yyyy,0
+,Shriram Nathaiya,,nathaiyashriram1990@gmail.com,,7296999223,,1,India,,,India,91,,1,,,,,5686,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ravi Gupta,,handsome20nov@gmail.com,,8279506112,,1,India,,,India,91,,1,,,,,5687,,,,,,,UTC,24,dd-mm-yyyy,0
+,Savita Rani,,savitaranisavitarani1990@gmail.com,,9416683588,,1,India,,,India,91,,1,,,,,5688,,,,,,,UTC,24,dd-mm-yyyy,0
+,Raghbir Singh,,ankitgoyatgi347@gmail.com,,9729768410,,1,India,,,India,91,,1,,,,,5689,,,,,,,UTC,24,dd-mm-yyyy,0
+,Amit,,goyatvikas7@gmail.com,,8800402070,,1,India,,,India,91,,1,,,,,5690,,,,,,,UTC,24,dd-mm-yyyy,0
+,Test trade,,sayefsarkar.nc122@gmail.com,,6416161,,0,China,,,China,86,,0,,,,,5691,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ishwanti Devi,,poojamalik9902@gmail.com,,8368556111,,1,India,,,India,91,,1,,,,,5692,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vinod Kumar,,vinod.kumar805316@gmail.com,,,,0,India,,,India,91,,0,,,,,5693,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ravi Bhure,,harishbhure4@gmail.com,,9810313990,,1,India,,,India,91,,1,,,,,5694,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vikas Teli,,boharavkas@gmail.com,,,,0,India,,,India,91,,0,,,,,5695,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rekha,,rani94074@gmail.com,,9467136190,,1,India,,,India,91,,1,,,,,5696,,,,,,,UTC,24,dd-mm-yyyy,0
+,Maksym Molchanov,,cryptofen2@gmail.com,,380736378878,,0,Ukraine,,,Ukraine,380,,0,,,,,5697,,,,,,,UTC,24,dd-mm-yyyy,0
+,Manjesh Kumar,,manjeshkumar236@gmail.com,,9813832903,,1,India,,,India,91,,1,,,,,5698,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sanjay,,Dhankharsanjay4@gmail.com,,7740000170,,1,India,,,India,91,,1,,,,,5699,,,,,,,UTC,24,dd-mm-yyyy,0
+,Salesh Kumar,,choudhary.tyre.julana@gmail.com,,9416050729,,1,India,,,India,91,,1,,,,,5700,,,,,,,UTC,24,dd-mm-yyyy,0
+,Umesh  Kumar,,fimtludhiana@gmail.com,,,,0,India,,,India,91,,0,,,,,5701,,,,,,,UTC,24,dd-mm-yyyy,0
+,Inder Pal,,inderpal61350@gmail.com,,9466462676,,1,India,,,India,91,,1,,,,,5702,,,,,,,UTC,24,dd-mm-yyyy,0
+,Chavi,,chavimalik320@gmail.com,,8954990332,,1,India,,,India,91,,1,,,,,5703,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Gurmeet Kaur,,salwant472@gmail.com,,9888012472,,1,India,,,India,91,,1,,,,,5704,,,,,,,UTC,24,dd-mm-yyyy,0
+,Malkeet Singh,,malkeetsaini432@gmail.com,,9814251275,,1,India,,,India,91,,1,,,,,5705,,,,,,,UTC,24,dd-mm-yyyy,0
+,SHAMMY KUMAR,,sunrise00089@gmail.com,,,,0,India,,,India,91,,0,,,,,5706,,,,,,,UTC,24,dd-mm-yyyy,0
+,Simranjit Kaur,,simranpctebca2018@gmail.com,,,,0,France,,,France,33,,0,,,,,5707,,,,,,,UTC,24,dd-mm-yyyy,0
+,Simranjit Kaur,,simranjitpctebca2018@gmail.com,,7888931235,,1,India,,,India,91,,1,,,,,5708,,,,,,,UTC,24,dd-mm-yyyy,0
+,Minaxi,,aniljangra9416309878@gmail.com,,9416309878,,1,India,,,India,91,,1,,,,,5709,,,,,,,UTC,24,dd-mm-yyyy,0
+,Minaxi Devi,,minaxijangra989@gmail.com,,,,0,India,,,India,91,,0,,,,,5710,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rakesh Kumar,,rk4207885@gmail.com,,7015737653,,1,India,,,India,91,,1,,,,,5711,,,,,,,UTC,24,dd-mm-yyyy,0
+,Satnam Kaur,,asdhiman@yahoo.com,,7009202011,,1,India,,,India,91,,1,,,,,5712,,,,,,,UTC,24,dd-mm-yyyy,0
+,sunreet kaur,,sransunreet@gmail.com,,977556440,,1,India,,,India,91,,1,,,,,5713,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Jatinder Kumar,,jatinder1505@gmail.com,,,,0,India,,,India,91,,0,,,,,5714,,,,,,,UTC,24,dd-mm-yyyy,0
+,Gurtej  Singh,,satoshinakamotto2009@gmail.com,,,,0,India,,,India,91,,0,,,,,5715,,,,,,,UTC,24,dd-mm-yyyy,0
+,Varinder Kumar,,bmsonys@gmail.com,,,,0,India,,,India,91,,0,,,,,5716,,,,,,,UTC,24,dd-mm-yyyy,0
+,satvinder  singh,,singhkorner84@gmail.com,,7976366500,,1,India,,,India,91,,1,,,,,5717,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ravinder jit Singh,,jeet18477@gmail.com,,9034730173,,1,India,,,India,91,,1,,,,,5718,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ramesh Kumar,,rameshuchana@gmail.com,,7015484339,,0,India,,,India,91,,0,,,,,5719,,,,,,,UTC,24,dd-mm-yyyy,0
+,Belle MacMahon,,belle-macmahon@onlineindex.biz,,,,0,Australia,,,Australia,61,,0,,,,,5720,,,,,,,UTC,24,dd-mm-yyyy,0
+,Phool  Kumar,,pk.sandhu0045@gmail.com,,7082412199,,1,India,,,India,91,,1,,,,,5721,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sushma,,satishkumar0047@yahoo.com,,8569816246,,1,India,,,India,91,,1,,,,,5722,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,vikas verma,,vikasvermam@gmail.com,,9136476763,,1,India,,,India,91,,1,,,,,5723,,,,,,,UTC,24,dd-mm-yyyy,0
+,Asha,,ladwalasha2010@gmail.com,,9996719592,,1,India,,,India,91,,1,,,,,5724,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunil Kumar,,sunilkumarnirman1977@gmail.com,,9817655933,,1,India,,,India,91,,1,,,,,5725,,,,,,,UTC,24,dd-mm-yyyy,0
+,Payal Devi,,payal14761@gmail.com,,9896614761,,1,India,,,India,91,,1,,,,,5726,,,,,,,UTC,24,dd-mm-yyyy,0
+,Satish Kumar,,farmana0047@gmail.com,,8569816246,,1,India,,,India,91,,1,,,,,5727,,,,,,,UTC,24,dd-mm-yyyy,0
+,Reena Kumari,,reenaku3698@gmail.com,,9416846489,,1,India,,,India,91,,1,,,,,5728,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ajay,,ajaysirswal6@gmail.com,,9254104106,,1,India,,,India,91,,1,,,,,5729,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jakir,,jkrkhan40@gmail.com,,8950004750,,1,India,,,India,91,,1,,,,,5730,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,SANTOSH KUMAR BEHERA,,santoshphone1@gmail.com,,9040545405,,1,India,,,India,91,,1,,,,,5731,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kifayat Yadav,,rambhajyadav1981@gmail.com,,8395914281,,1,India,,,India,91,,1,,,,,5732,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sohan lal,,sohanlalmexico@gmail.com,,,,0,India,,,India,91,,0,,,,,5733,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ramesh Kumar,,ramesh.uchana@gmail.com,,7015484339,,1,India,,,India,91,,1,,,,,5734,,,,,,,UTC,24,dd-mm-yyyy,0
+,Devender Bhatia,,praviinmahajan77@gmail.com,,9354720515,,1,India,,,India,91,,1,,,,,5735,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sohan Lal,,pathaksohan21@gmail.com,,9991582800,,1,India,,,India,91,,1,,,,,5736,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kapil Yadav,,jugnuyadav281@gmail.com,,,,0,India,,,India,91,,0,,,,,5737,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ram  Niwas,,ramniws9213@gmail.com,,9213766131,,1,India,,,India,91,,1,,,,,5738,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sukhwinder Kaur,,balwinderskhalsa@hotmail.com,,919876306439,,0,India,,,India,91,,0,,,,,5739,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ajmer Duhan,,ajmerduhan2@gmail.com,,9466438228,,0,India,,,India,91,,0,,,,,5740,,,,,,,UTC,24,dd-mm-yyyy,0
+,Pritesh Kantilal Patel,,pritesh2574@gmail.com,,919979725338,,1,India,,,India,91,,1,,,,,5741,,,,,,,UTC,24,dd-mm-yyyy,0
+,Neetu Rani,,niturani202020@gmail.com,,919996835923,,1,India,,,India,91,,1,,,,,5742,,,,,,,UTC,24,dd-mm-yyyy,0
+,Wasito Wasito,,Wawansugianto234@gmail.com,,6285751955447,,1,Indonesia,,,Indonesia,62,,1,,,,,5743,,,,,,,UTC,24,dd-mm-yyyy,0
+,Muhammad Amin,,uumar6297@gmail.com,,923423670162,,0,Pakistan,,,Pakistan,92,,0,,,,,5744,,,,,,,UTC,24,dd-mm-yyyy,0
+,Deni handriani,,tradersukabumi9@gmail.com,,6282298120624,,0,Indonesia,,,Indonesia,62,,0,,,,,5745,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rubiyanto Rubiyanto,,rubi.085707950025@gmail.com,,6285707950025,,0,Indonesia,,,Indonesia,62,,0,,,,,5746,,,,,,,UTC,24,dd-mm-yyyy,0
+,Juwan Toro,,jtoro9275@gmail.com,,6285221828938,,1,Indonesia,,,Indonesia,62,,1,,,,,5747,,,,,,,UTC,24,dd-mm-yyyy,0
+,Reza Gumilar,,rzgmlrs@gmail.com,,628161111334,,1,Indonesia,,,Indonesia,62,,1,,,,,5748,,,,,,,UTC,24,dd-mm-yyyy,0
+,Mohammad Kafi,,Kafimohammad97@gmail.com,,6285257083914,,0,Indonesia,,,Indonesia,62,,0,,,,,5749,,,,,,,UTC,24,dd-mm-yyyy,0
+,dwi cahyono,,dwipeppp@gmail.com,,82276565000,,1,Indonesia,,,Indonesia,62,,1,,,,,5750,,,,,,,UTC,24,dd-mm-yyyy,0
+,Abden Marvanda Susanto,,abdenmarvanda8@gmail.com,,6287771928463,,1,Indonesia,,,Indonesia,62,,1,,,,,5751,,,,,,,UTC,24,dd-mm-yyyy,0
+,Candra Dwi Kurniawan,,candraroger0@gmail.com,,6287786454632,,1,Indonesia,,,Indonesia,62,,1,,,,,5752,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ahmad Khizri,,hizriahmad@gmail.com,,6281997777831,,0,Indonesia,,,Indonesia,62,,0,,,,,5753,,,,,,,UTC,24,dd-mm-yyyy,0
+,Renu Maoj,,chauhanrenu031@gmail.com,,919671420343,,1,India,,,India,91,,1,,,,,5754,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Rita Sharma,,ritashsh1@gmail.com,,919810812867,,1,India,,,India,91,,1,,,,,5755,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunil Kumar  Kaura,,sunilkumarkaura1@gmail.com,,919870139602,,0,India,,,India,91,,0,,,,,5756,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jayant Gandhi,,Gandhijayant96@gmail.com,,919050777779,,1,India,,,India,91,,1,,,,,5757,,,,,,,UTC,24,dd-mm-yyyy,0
+,Awan Agung Subekti,,Awanagung13@gmail.com,,6285546542209,,1,Indonesia,,,Indonesia,62,,1,,,,,5758,,,,,,,UTC,24,dd-mm-yyyy,0
+,Veeky Harni,,vickyharni66@gmail.com,,919416380959,,1,India,,,India,91,,1,,,,,5759,,,,,,,UTC,24,dd-mm-yyyy,0
+,Faeli Astuti,,faeli.astuti96@gmail.com,,6281211891247,,0,Indonesia,,,Indonesia,62,,0,,,,,5760,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ali Mustafa,,am6910774@gmail.com,,6285254505699,,1,Indonesia,,,Indonesia,62,,1,,,,,5761,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rama Aji Faudi,,Rafyafandi72@gmail.com,,8882704806,,1,Indonesia,,,Indonesia,62,,1,,,,,5762,,,,,,,UTC,24,dd-mm-yyyy,0
+,Andib Badlowi,,Romikurnia082@gmail.com,,6287858002463,,1,Indonesia,,,Indonesia,62,,1,,,,,5763,,,,,,,UTC,24,dd-mm-yyyy,0
+,Deni Sutrisno,,skypieaisland@gmail.com,,6282123984297,,0,Indonesia,,,Indonesia,62,,0,,,,,5764,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sriyanto Sriyanto,,yanto_green@yahoo.com,,85276300720,,1,Indonesia,,,Indonesia,62,,1,,,,,5765,,,,,,,UTC,24,dd-mm-yyyy,0
+,SRI WISNU WARDANI,,wisnuwardani904@gmail.com,,6282282716843,,0,Indonesia,,,Indonesia,62,,0,,,,,5766,,,,,,,UTC,24,dd-mm-yyyy,0
+,Eka Mustafa,,ekamustafa@gmail.com,,6281288844260,,1,Indonesia,,,Indonesia,62,,1,,,,,5767,,,,,,,UTC,24,dd-mm-yyyy,0
+,sugiyanto sugiyanto,,johanbang097@gmail.com,,6282175591868,,1,Indonesia,,,Indonesia,62,,1,,,,,5768,,,,,,,UTC,24,dd-mm-yyyy,0
+,komari komari,,tujacaturwidodo@gmail.com,,6285331274332,,0,Indonesia,,,Indonesia,62,,0,,,,,5769,,,,,,,UTC,24,dd-mm-yyyy,0
+,Muhammad Dian Karunia M,,muhammaddiann99@gmail.com,,6289676993024,,0,Indonesia,,,Indonesia,62,,0,,,,,5770,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sugi Yanti,,warsug80@gmail.com,,83863228757,,1,Indonesia,,,Indonesia,62,,1,,,,,5771,,,,,,,UTC,24,dd-mm-yyyy,0
+,Bakhtiar Anjar,,bakhtiaranjar@gmail.com,,,,0,Indonesia,,,Indonesia,62,,0,,,,,5772,,,,,,,UTC,24,dd-mm-yyyy,0
+,Abhinav Sharma,,abhinavsh1122001@gmail.com,,7814080120,,0,India,,,India,91,,0,,,,,5773,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kristanto Kristanto,,anto13642@gmail.com,,6283863649732,,1,Indonesia,,,Indonesia,62,,1,,,,,5774,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jitender Singh,,jitukhusi.breakup@gmail.com,,8950255335,,1,India,,,India,91,,1,,,,,5775,,,,,,,UTC,24,dd-mm-yyyy,0
+,Richa Gouri,,richaangel266@gmail.com,,7082077632,,1,India,,,India,91,,1,,,,,5776,,,,,,,UTC,24,dd-mm-yyyy,0
+,Robert Uncle,,robertuncle@roberuncle.com,,,,0,Ethiopia,,,Ethiopia,251,,0,,,,,5777,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sham Goyal,,shamshakti3694@gmail.com,,,,0,India,,,India,91,,0,,,,,5778,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Govind Verma,,hellogovinda1002@gmail.com,,9813081002,,1,India,,,India,91,,1,,,,,5779,,,,,,,UTC,24,dd-mm-yyyy,0
+,Narayan Chand,,vermajifx955@gmail.com,,,,0,India,,,India,91,,0,,,,,5780,,,,,,,UTC,24,dd-mm-yyyy,0
+,Thato Marumo,,tmarumot@gmail.com,,27812575017,,1,South Africa,,,South Africa,27,,1,,,,,5781,,,,,,,UTC,24,dd-mm-yyyy,0
+,Khushie Siwach,,skhushie@gmail.com,,9999301092,,1,India,,,India,91,,1,,,,,5782,,,,,,,UTC,24,dd-mm-yyyy,0
+,Shubham,,shubhambhiwani@gmail.com,,9999301092,,1,India,,,India,91,,1,,,,,5783,,,,,,,UTC,24,dd-mm-yyyy,0
+,Durgavati D,,durgavatinp@gmail.com,,,,0,India,,,India,91,,0,,,,,5784,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rattan Singh,,srattan015@gmail.com,,9416557663,,1,India,,,India,91,,1,,,,,5785,,,,,,,UTC,24,dd-mm-yyyy,0
+,Tamanna,,tamannaarora405@gmail.com,,,,0,India,,,India,91,,0,,,,,5786,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sonu Kumar,,skmarothia001@gmail.com,,9812660010,,1,India,,,India,91,,1,,,,,5787,,,,,,,UTC,24,dd-mm-yyyy,0
+,Satish Kumar,,kavitasatish80@gmail.com,,9996680680,,0,India,,,India,91,,0,,,,,5788,,,,,,,UTC,24,dd-mm-yyyy,0
+,Banti Jangra,,Bantijangra11@gmail.com,,,,0,India,,,India,91,,0,,,,,5789,,,,,,,UTC,24,dd-mm-yyyy,0
+,Urmila Devi,,rambhajyadav@gmail.com,,895004281,,1,India,,,India,91,,1,,,,,5790,,,,,,,UTC,24,dd-mm-yyyy,0
+,Gurpreet  singh,,gurpreet.dhindsa176@gmail.com,,9300103100,,0,India,,,India,91,,0,,,,,5791,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sonu,,sonuduhan647@gmail.com,,9812029165,,1,India,,,India,91,,1,,,,,5792,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Satbir Singh,,mosamikharb9999@gmail.com,,9467245662,,1,India,,,India,91,,1,,,,,5793,,,,,,,UTC,24,dd-mm-yyyy,0
+,RandyFaign RandyFaign,,pierre-mariemoreau@writeme.com,,,,0,Paraguay,,,Paraguay,595,,0,,,,,5794,,,,,,,UTC,24,dd-mm-yyyy,0
+,Harun Nurrosyid,,nurrosyidhn@gmail.com,,,,0,Indonesia,,,Indonesia,62,,0,,,,,5795,,,,,,,UTC,24,dd-mm-yyyy,0
+,Krishan,,ashokdalal749@gmail.com,,9813377721,,1,India,,,India,91,,1,,,,,5796,,,,,,,UTC,24,dd-mm-yyyy,0
+,Michaeltaw Michaeltaw,,ashleylundberg@myself.com,,,,0,Lithuania,,,Lithuania,370,,0,,,,,5797,,,,,,,UTC,24,dd-mm-yyyy,0
+,Harpreet Singh,,hapmanjpuria@gmail.com,,,,0,Australia,,,Australia,61,,0,,,,,5798,,,,,,,UTC,24,dd-mm-yyyy,0
+,Veronica Sullivan,,veronica@alphbiolabs.co.uk,,,,0,United Kingdom,,,United Kingdom,44,,0,,,,,5799,,,,,,,UTC,24,dd-mm-yyyy,0
+,SURINDER KUMAR,,arorasurinder811@gmail.com,,7889219448,,1,India,,,India,91,,1,,,,,5800,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vinod,,lathwalvinod2021@gmail.com,,9729718948,,1,India,,,India,91,,1,,,,,5801,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kritika,,rajnet6061@gmail.com,,7404357466,,1,India,,,India,91,,1,,,,,5802,,,,,,,UTC,24,dd-mm-yyyy,0
+,JS SINGH,,hemadube131@gmail.com,,,,0,India,,,India,91,,0,,,,,5803,,,,,,,UTC,24,dd-mm-yyyy,0
+,Surender Pal Chauhan,,spchauhan14sept@gmail.com,,9813820853,,1,India,,,India,91,,1,,,,,5804,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sandeep Kumar,,anishmanish1215@gmail.com,,9518888083,,1,India,,,India,91,,1,,,,,5805,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ajay Kumar,,sangwanajay328@gmail.com,,,,0,India,,,India,91,,0,,,,,5806,,,,,,,UTC,24,dd-mm-yyyy,0
+,KULDEEP SHARMA,,kuldeepdcc@gmail.com,,,,0,India,,,India,91,,0,,,,,5807,,,,,,,UTC,24,dd-mm-yyyy,0
+,Akshay lathwal,,akshaylathwal3@gmail.com,,917404400143,,1,India,,,India,91,,1,,,,,5808,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sonu,,Sdpetwariya1@gmail.com,,9812801123,,1,India,,,India,91,,1,,,,,5809,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Ripudaman Singh,,marketing.aboota@gmail.com,,7000934949,,1,India,,,India,91,,1,,,,,5810,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rajkumar,,rajkumardhimanvip@gmail.com,,9991562174,,1,India,,,India,91,,1,,,,,5811,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kavita Devi,,kavitadevi1953@gmail.com,,7015703340,,1,India,,,India,91,,1,,,,,5812,,,,,,,UTC,24,dd-mm-yyyy,0
+,Munish Gupta,,mg9685@yahoo.com,,7973419103,,0,India,,,India,91,,0,,,,,5813,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sachin,,blakeindia.md@gmail.com,,9991117929,,1,India,,,India,91,,1,,,,,5814,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Kuldeep,,dkuldeep875@gmail.com,,8053465878,,1,India,,,India,91,,1,,,,,5815,,,,,,,UTC,24,dd-mm-yyyy,0
+,Parveen Singh Chhoker,,rmcparveenchhoker@gmail.com,,7015222250,,1,India,,,India,91,,1,,,,,5816,,,,,,,UTC,24,dd-mm-yyyy,0
+,Pardeep Bhuwal,,pardeepbhuwal@gmail.com,,,,0,India,,,India,91,,0,,,,,5817,,,,,,,UTC,24,dd-mm-yyyy,0
+,Mohan,,msduhan111@gmail.com,,,,0,India,,,India,91,,0,,,,,5818,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rakesh Kumar,,rajeshjangra9878@gmail.com,,8708846945,,1,India,,,India,91,,1,,,,,5819,,,,,,,UTC,24,dd-mm-yyyy,0
+,Pardeep,,goyatpardeep64@gmail.com,,8708388136,,1,India,,,India,91,,1,,,,,5820,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunny,,sunnygoyat720@gmail.com,,7206665030,,1,India,,,India,91,,1,,,,,5821,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jurgen Karl,,wilhelm@thegermanydental.de,,,,0,Germany,,,Germany,49,,0,,,,,5822,,,,,,,UTC,24,dd-mm-yyyy,0
+,Virender Singh,,mrvirenduhan@gmail.com,,9215070000,,1,India,,,India,91,,1,,,,,5823,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunita,,sj9812011399@gmail.com,,9812011399,,1,India,,,India,91,,1,,,,,5824,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ajay,,ajaysaini9053200@gmail.com,,,,0,India,,,India,91,,0,,,,,5825,,,,,,,UTC,24,dd-mm-yyyy,0
+,Yogesh,,ydalal942@gmail.com,,9896160170,,1,India,,,India,91,,1,,,,,5826,,,,,,,UTC,24,dd-mm-yyyy,0
+,Manju,,Kaushikrupesh117@gmail.com,,7988500727,,1,India,,,India,91,,1,,,,,5827,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sanjay Kumar Sheoran,,sonusheraa22@gmail.com,,9465285128,,1,India,,,India,91,,1,,,,,5828,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jai Singh,,sjai8329@gmail.com,,9991179908,,0,India,,,India,91,,0,,,,,5829,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rahul Kumar,,rk9102273689@gmail.com,,,,0,India,,,India,91,,0,,,,,5830,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sagar barber,,sbabbar44@gmail.com,,,,0,India,,,India,91,,0,,,,,5831,,,,,,,UTC,24,dd-mm-yyyy,0
+,Amit Kumar,,amitnain710@gmail.com,,,,0,India,,,India,91,,0,,,,,5832,,,,,,,UTC,24,dd-mm-yyyy,0
+,Neeraj Kumar,,chauhan.neerajsnp@gmail.com,,9813680380,,1,India,,,India,91,,1,,,,,5833,,,,,,,UTC,24,dd-mm-yyyy,0
+,Inderpal Singh,,kaler4409@gmail.com,,9855544409,,1,India,,,India,91,,1,,,,,5834,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rajesh Gupta,,rajdssingh@gmail.com,,,,0,India,,,India,91,,0,,,,,5835,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rohit Kumar,,beniwalrohit2002@gmail.com,,9728192137,,1,India,,,India,91,,1,,,,,5836,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jagwinder Singh,,jaggu1603@gmail.com,,9992620773,,1,India,,,India,91,,1,,,,,5837,,,,,,,UTC,24,dd-mm-yyyy,0
+,balwinder singh,,balwindersingh.nrb@gmail.com,,,,0,India,,,India,91,,0,,,,,5838,,,,,,,UTC,24,dd-mm-yyyy,0
+,Chandram,,chouhanchandram668@gmail.com,,,,0,India,,,India,91,,0,,,,,5839,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rakesh Duhan,,rakeshduhan1994@gmail.com,,9050940090,,1,India,,,India,91,,1,,,,,5840,,,,,,,UTC,24,dd-mm-yyyy,0
+,Chandram,,akshaychouhan4646@gmail.com,,9992371837,,1,India,,,India,91,,1,,,,,5841,,,,,,,UTC,24,dd-mm-yyyy,0
+,Gurmeet,,gkaur9752@gmail.com,,7988130634,,1,India,,,India,91,,1,,,,,5842,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunny verma,,sverma31317@gmail.com,,9915867477,,1,India,,,India,91,,1,,,,,5843,,,,,,,UTC,24,dd-mm-yyyy,0
+,Lovepreet Singh,,lovepreetsingh142915@gmail.com,,,,0,India,,,India,91,,0,,,,,5844,,,,,,,UTC,24,dd-mm-yyyy,0
+,Pardeep Kumar,,pardeepola789@gmail.com,,9050151650,,1,India,,,India,91,,1,,,,,5845,,,,,,,UTC,24,dd-mm-yyyy,0
+,Gaurav Singhala,,gauravsingla0123@gmail.com,,919988962685,,0,India,,,India,91,,0,,,,,5846,,,,,,,UTC,24,dd-mm-yyyy,0
+,Shubham Sharma,,nannusharma001@gmail.com,,918427276975,,0,India,,,India,91,,0,,,,,5847,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ajay Panchal,,snipertrader.ajay@gmail.com,,918889726603,,1,India,,,India,91,,1,,,,,5848,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Ajay,,a.virat1398n@gmail.com,,918319061134,,0,India,,,India,91,,0,,,,,5849,,,,,,,UTC,24,dd-mm-yyyy,0
+,Hardeep Kaur,,ajimalcontacts@gmail.com,,919613009500,,1,India,,,India,91,,1,,,,,5850,,,,,,,UTC,24,dd-mm-yyyy,0
+,Neeraj,,neerajchahal123@gmail.com,,918640001008,,1,India,,,India,91,,1,,,,,5851,,,,,,,UTC,24,dd-mm-yyyy,0
+,Fgucgxf Fyccyd,,vhcy@gamil.com,,919855544407,,0,India,,,India,91,,0,,,,,5852,,,,,,,UTC,24,dd-mm-yyyy,0
+,parwinder  singh,,officialhoney63@gmail.com,,919915890724,,0,India,,,India,91,,0,,,,,5853,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ishwar,,ajaykuldeep456@gmail.com,,919466480678,,1,India,,,India,91,,1,,,,,5854,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sanjeep Kumar,,sandeeprpnp@gmail.com,,918053788011,,1,India,,,India,91,,1,,,,,5855,,,,,,,UTC,24,dd-mm-yyyy,0
+,Puran Saini,,pcsaini@gmail.com,,919350316774,,0,India,,,India,91,,0,,,,,5856,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sushil kumar saini,,sushilamb1970@gmail.com,,919671275093,,1,India,,,India,91,,1,,,,,5857,,,,,,,UTC,24,dd-mm-yyyy,0
+,Amanpreet Singh,,preetpreet2727@gmail.com,,918307235857,,0,India,,,India,91,,0,,,,,5858,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vijender,,poonia1124@gmail.com,,919992391977,,1,India,,,India,91,,1,,,,,5859,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Parveen Rathi,,parveenrathi59@gmail.com,,919896029451,,1,India,,,India,91,,1,,,,,5860,,,,,,,UTC,24,dd-mm-yyyy,0
+,Harish Kumar,,sahil.ratan15@gmail.com,,919896952488,,1,India,,,India,91,,1,,,,,5861,,,,,,,UTC,24,dd-mm-yyyy,0
+,sehdev singh,,devphalswal786@gmail.com,,918708093781,,0,India,,,India,91,,0,,,,,5862,,,,,,,UTC,24,dd-mm-yyyy,0
+,Lakshay,,lathwallakshay@gmail.com,,917404400143,,1,India,,,India,91,,1,,,,,5863,,,,,,,UTC,24,dd-mm-yyyy,0
+,Aayanash A,,aayansh@aol.com,,919469777777,,0,India,,,India,91,,0,,,,,5864,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ribka Ribka,,awesomerahul89@gmail.com,,6284849603,,1,India,,,India,91,,1,,,,,5865,,,,,,,UTC,24,dd-mm-yyyy,0
+,Parmod Kumar,,rpkumarelectrical1989@gmail.com,,919569588990,,0,India,,,India,91,,0,,,,,5866,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sagar Verma,,sagarvermmaa0@gmail.com,,918847499340,,0,India,,,India,91,,0,,,,,5867,,,,,,,UTC,24,dd-mm-yyyy,0
+,Davinder Singh chahal,,davinderchahal0119@gmail.com,,919915678065,,1,India,,,India,91,,1,,,,,5868,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sajjan Kumar,,sajjanhooda64@gmail.com,,919034506083,,1,India,,,India,91,,1,,,,,5869,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,GURVINDER SINGH,,GURVINDERGURVINDER09886@GMAIL.COM,,919996994749,,0,India,,,India,91,,0,,,,,5870,,,,,,,UTC,24,dd-mm-yyyy,0
+,Roshan,,hope74937@gmail.com,,918307046686,,1,India,,,India,91,,1,,,,,5871,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sonaram Naringaram Bishnoi,,bishnoiforex@gmail.com,,919823297294,,1,India,,,India,91,,1,,,,,5872,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sukhdarshan Singh,,singhsukhdarshan014@gmail.com,,917508850457,,1,India,,,India,91,,1,,,,,5873,,,,,,,UTC,24,dd-mm-yyyy,0
+,Green fx International,,svinod2872@gmail.com,,919988110084,,1,India,,,India,91,,1,,,,,5874,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sanjay kumar,,sanjaykumar483957@gmail.com,,918950404439,,1,India,,,India,91,,1,,,,,5875,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ashok Kumar,,ashokjangubishnoi2@gmail.com,,919860479268,,1,India,,,India,91,,1,,,,,5876,,,,,,,UTC,24,dd-mm-yyyy,0
+,Mehmet  Bolu,,mbolu38@icloud.com,,905337837684,,0,Turkey,,,Turkey,90,,0,,,,,5877,,,,,,,UTC,24,dd-mm-yyyy,0
+,Arshpreet Singh Spal,,asspal202@gmail.com,,919592145215,,1,India,,,India,91,,1,,,,,5878,,,,,,,UTC,24,dd-mm-yyyy,0
+,Suraj Pratap Singh,,surajpratap0306@gmail.com,,919899332238,,1,India,,,India,91,,1,,,,,5879,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Monia,,kataria.pkl@gmail.com,,9988413205,,1,India,,,India,91,,1,,,,,5880,,,,,,,UTC,24,dd-mm-yyyy,0
+,rajvinder kaur,,nandinikaur9988@gmail.com,,918708944460,,1,India,,,India,91,,1,,,,,5881,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sangeeta Devi,,tiwarisangeeta2016@gmail.com,,919518636806,,0,India,,,India,91,,0,,,,,5882,,,,,,,UTC,24,dd-mm-yyyy,0
+,Chandan Kumar,,chandantikari2016@gmail.com,,918969977515,,1,India,,,India,91,,1,,,,,5883,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jatinder kumar,,jourakamal@gmail.com,,919034057067,,1,India,,,India,91,,1,,,,,5884,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Sangeeta Devi,,amantiwari7634@gmail.com,,917988345847,,1,India,,,India,91,,1,,,,,5885,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Kamal Jaura,,kamaljaura@gmail.com,,919034057062,,1,India,,,India,91,,1,,,,,5886,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,mukesh babu,,osmukesh73@gmail.com,,8360139645,,0,India,,,India,91,,0,,,,,5887,,,,,,,UTC,24,dd-mm-yyyy,0
+,Gurdial Singh,,jaimaakali383@gmail.com,,918222857067,,1,India,,,India,91,,1,,,,,5888,,,,,,,UTC,24,dd-mm-yyyy,0
+,Khushi kaur,,40596@gmail.com,,918295647656,,0,India,,,India,91,,0,,,,,5889,,,,,,,UTC,24,dd-mm-yyyy,0
+,Prabhleen Kaur,,khushikaur40596@gmail.com,,918295647656,,1,India,,,India,91,,1,,,,,5890,,,,,,,UTC,24,dd-mm-yyyy,0
+,Gourav Kumar,,gouravsir786@gmail.com,,919888880050,,0,India,,,India,91,,0,,,,,5891,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kajal Rani,,jagmohanjagmohan204@gmail.com,,917015222250,,0,India,,,India,91,,0,,,,,5892,,,,,,,UTC,24,dd-mm-yyyy,0
+,Neeraj Nagar,,neeraj431@gmail.com,,919781311431,,0,India,,,India,91,,0,,,,,5893,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vikas Nagar,,vikas4u2c@mail.com,,919814774488,,0,India,,,India,91,,0,,,,,5894,,,,,,,UTC,24,dd-mm-yyyy,0
+,Vikas Nagar,,vikas4u2c@gmail.com,,919814774488,,0,India,,,India,91,,0,,,,,5895,,,,,,,UTC,24,dd-mm-yyyy,0
+,Rakesh Bhatt,,rkshbhtt866@gmail.com,,917895416659,,0,India,,,India,91,,0,,,,,5896,,,,,,,UTC,24,dd-mm-yyyy,0
+,Heena Ruhil,,heenaruhilknl@gmail.com,,918607461214,,1,India,,,India,91,,1,,,,,5897,,,,,,,UTC,24,dd-mm-yyyy,0
+,Deepak Malik,,malik.raja@gmail.com,,919991150175,,1,India,,,India,91,,1,,,,,5898,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kamaljit  Kumar,,dhimanrock007@gmail.com,,919814698178,,0,India,,,India,91,,0,,,,,5899,,,,,,,UTC,24,dd-mm-yyyy,0
+,Gaurav Kwatra,,kwatrapg@gmail.com,,919872019771,,1,India,,,India,91,,1,,,,,5900,,,,,,,UTC,24,dd-mm-yyyy,0
+,sangeeta Devi,,tsk10475@gmail.com,,919034057062,,1,India,,,India,91,,1,,,,,5901,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ritesh,,ratheeritesh777@gmail.com,,917206470012,,1,India,,,India,91,,1,,,,,5902,,,,,,,UTC,24,dd-mm-yyyy,0
+,Nitish Sindhu,,nitishsindhu@gmail.com,,919717762064,,0,India,,,India,91,,0,,,,,5903,,,,,,,UTC,24,dd-mm-yyyy,0
+,ctr zu,,ctrl.zudo@gmail.com,,849878787878,,0,Vietnam,,,Vietnam,84,,0,,,,,5904,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sunil Kumar,,sunilkumar993184@gmail.com,,919304398521,,1,India,,,India,91,,1,,,,,5905,,,,,,,UTC,24,dd-mm-yyyy,0
+,Brajesh Chourasia,,brajeshchourasia26@gmail.com,,919754861199,,0,India,,,India,91,,0,,,,,5906,,,,,,,UTC,24,dd-mm-yyyy,0
+,Brajesh  Chourasia,,chourasiabrajesh4@gmail.com,,919754861199,,0,India,,,India,91,,0,,,,,5907,,,,,,,UTC,24,dd-mm-yyyy,0
+,Fhatima fhatima,,ffhatima53@gmail.com,,917657950822,,0,India,,,India,91,,0,,,,,5908,,,,,,,UTC,24,dd-mm-yyyy,0
+,david david,,daviddavid1313d@gmail.com,,919999999988,,0,India,,,India,91,,0,,,,,5909,,,,,,,UTC,24,dd-mm-yyyy,0
+,RAUSHAN  Mallik,,mallikraushan@yahoo.com,,918750512356,,0,India,,,India,91,,0,,,,,5910,,,,,,,UTC,24,dd-mm-yyyy,0
+,Raushan Mallik,,mallkikraushan@yahoo.com,,918750512356,,0,India,,,India,91,,0,,,,,5911,,,,,,,UTC,24,dd-mm-yyyy,0
+,Arpit Agarwal,,apt@mailmart.org,,919971977770,,0,India,,,India,91,,0,,,,,5912,,,,,,,UTC,24,dd-mm-yyyy,0
+,sonu,,samsain00072@gmail.com,,918814940143,,1,India,,,India,91,,1,,,,,5913,,,,,,,UTC,24,dd-mm-yyyy,0
+,Gourav Kumar,,Hotsale786@gmail.com,,919317794000,,0,India,,,India,91,,0,,,,,5914,,,,,,,UTC,24,dd-mm-yyyy,0
+,GURVINDER SINGH,,gurvinderss2234@gmail.com,,919996994749,,0,India,,,India,91,,0,,,,,5915,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jagjeet Sharma,,buchagbhai@gmail.com,,917404048573,,1,India,,,India,91,,1,,,,,5916,,,,,,,UTC,24,dd-mm-yyyy,0
+,UMMED  SINGH,,ummed5121@gmail.com,,9119223087,,0,India,,,India,91,,0,,,,,5917,,,,,,,UTC,24,dd-mm-yyyy,0
+,ARUN SHARMA,,info.deepakoffice@gmail.com,,918570022085,,1,India,,,India,91,,1,,,,,5918,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,GAURAV KWATRA,,gaurav.kwatra@sysinfocom.com,,919872019771,,1,India,,,India,91,,1,,,,,5919,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Nirmal Kaur,,Nirmalkaurnk2001@gmail.com,,919465794154,,0,India,,,India,91,,0,,,,,5920,,,,,,,UTC,24,dd-mm-yyyy,0
+,Nirmal Manjit,,NirmalManjit1987@gmail.com,,919465144054,,1,India,,,India,91,,1,,,,,5921,,,,,,,UTC,24,dd-mm-yyyy,0
+,VIKAS KUMAR,,vikaskumarrcm@gmail.com,,918168185482,,0,India,,,India,91,,0,,,,,5922,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sanjeev Hooda,,sanjeevhooda642@gmail.com,,919728006208,,1,India,,,India,91,,1,,,,,5923,,,,,,,UTC,24,dd-mm-yyyy,0
+,Noor Khan,,nakhan1523@gmail.com,,919412314446,,0,India,,,India,91,,0,,,,,5924,,,,,,,UTC,24,dd-mm-yyyy,0
+,noor khan,,khanna1523@gmail.com,,919412314446,,0,India,,,India,91,,0,,,,,5925,,,,,,,UTC,24,dd-mm-yyyy,0
+,Babli Arora,,babliarora4529@gmail.com,,7889219448,,0,India,,,India,91,,0,,,,,5926,,,,,,,UTC,24,dd-mm-yyyy,0
+,Babli Arora,,arorababli@gmail.com,,7889219448,,0,India,,,India,91,,0,,,,,5927,,,,,,,UTC,24,dd-mm-yyyy,0
+,Babli Arora,,arorababli852@gmail.com,,7889219448,,0,India,,,India,91,,0,,,,,5928,,,,,,,UTC,24,dd-mm-yyyy,0
+,Babli Arora,,arora123.babli@gmail.com,,7889219448,,0,India,,,India,91,,0,,,,,5929,,,,,,,UTC,24,dd-mm-yyyy,0
+,Lokpal Singh Parihar,,lokpal.singh.parihar@gmail.com,,918821021940,,0,India,,,India,91,,0,,,,,5930,,,,,,,UTC,24,dd-mm-yyyy,0
+,Lokpal Singh Parihar,,lokpal.singh.parihar2021@gmail.com,,918821021940,,0,India,,,India,91,,0,,,,,5931,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sarabjeet Singh,,Sarabjeet7711@gmail.com,,919803088894,,1,India,,,India,91,,1,,,,,5932,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,Punit Bhasin,,globalizationfinc@gmail.com,,918607100641,,1,India,,,India,91,,1,,,,,5933,,,,,,,UTC,24,dd-mm-yyyy,0
+,Suresh Kumar,,Sureshdudi126@gmail.com,,919050041132,,1,India,,,India,91,,1,,,,,5934,,,,,,,UTC,24,dd-mm-yyyy,0
+,Arvind Sharma,,Arvindsharma0aks@gmail.com,,919996166445,,0,India,,,India,91,,0,,,,,5935,,,,,,,UTC,24,dd-mm-yyyy,0
+,Pardeep Kumar,,pardeepkamboj864@gmail.com,,9518194447,,1,India,,,India,91,,1,,,,,5936,,,,,,,UTC,24,dd-mm-yyyy,0
+,Mohan Test,,teamcity22@gmail.com,,919729775134,,0,India,,,India,91,,0,,,,,5937,,,,,,,UTC,24,dd-mm-yyyy,0
+,Siya Verma,,vermajifx@gmail.com,,917206967445,,0,India,,,India,91,,0,,,,,5938,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sanjeev Kumar,,sanjeev.delhi0070@gmail.com,,919983991338,,1,India,,,India,91,,1,,,,,5939,,,,,,,UTC,24,dd-mm-yyyy,0
+,Amanpreet Singh,,preetpreet1717@gmail.com,,918307235857,,0,India,,,India,91,,0,,,,,5940,,,,,,,UTC,24,dd-mm-yyyy,0
+,Amanpreet Singh,,PREETPREET172727@GMAIL.COM,,918307235857,,0,India,,,India,91,,0,,,,,5941,,,,,,,UTC,24,dd-mm-yyyy,0
+,Amanpreet Singh,,amanpreet172727@GMAIL.COM,,918307235857,,0,India,,,India,91,,0,,,,,5942,,,,,,,UTC,24,dd-mm-yyyy,0
+,Amanpreet Singh,,ishmeet2308@gmail.com,,918307235857,,0,India,,,India,91,,0,,,,,5943,,,,,,,UTC,24,dd-mm-yyyy,0
+,Narayan Kiroriwal,,narayankiroriwal@gmail.com,,917206967445,,1,India,,,India,91,,1,,,,,5944,,,,,,,UTC,24,dd-mm-yyyy,0
+,ovy rahman,,ovy.rahman@gmail.com,,2977877786868,,0,Aruba,,,Aruba,297,,0,,,,,5945,,,,,,,UTC,24,dd-mm-yyyy,0
+,VIKAS DUHAN,,duhancafe@gmail.com,,919466963053,,0,India,,,India,91,,0,,,,,5946,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ripudaman  Singh,,rds0751@gmail.com,,917000934949,,0,India,,,India,91,,0,,,,,5947,,,,,,,UTC,24,dd-mm-yyyy,0
+,omvir SINGH,,omvirjangra100@gmail.com,,919050875756,,1,India,,,India,91,,1,,,,,5948,,,,,,,UTC,24,dd-mm-yyyy,0
+,Amanpreet Singh,,admin@dibortfx.com,,,,1,India,,,India,91,,1,,,,,5950,,,,,,,UTC,24,dd-mm-yyyy,0
+,Amanpreet Singh,,amanapsingh2001@gmail.com,,,,1,India,,,India,91,,1,,,,,5951,,,,,,,UTC,24,dd-mm-yyyy,0
+,jatinder jaura,,jatinderjaura8@gmail.com,,919034057067,,0,India,,,India,91,,0,,,,,5952,,,,,,,UTC,24,dd-mm-yyyy,0
+,Jatinder Kumar,,jaurakavita9@gmail.com,,919034057067,,1,India,,,India,91,,1,,,,,5953,,,,,,,UTC,24,dd-mm-yyyy,0
+,Duncan Dejesus Lev York,,fahmidapinky99@gmail.com,,4414654645,,0,Man (Isle of),,,Man (Isle of),44,,0,,,,,5954,,,,,,,UTC,24,dd-mm-yyyy,0
+,Leo Savage Lesley Wolfe,,mehedi.netcoden@gmail.com,,6701245464,,0,East Timor,,,East Timor,670,,0,,,,,5955,,,,,,,UTC,24,dd-mm-yyyy,0
+,KANWAR PAL,,961kpk@gmail.com,,919463741275,,0,India,,,India,91,,0,,,,,5956,,,,,,,UTC,24,dd-mm-yyyy,0
+,Paritoshkumar Dey,,paritoshrajadey@gmail.com,,919031721099,,0,India,,,India,91,,0,,,,,5957,,,,,,,UTC,24,dd-mm-yyyy,0
+,Amit Narwal,,amitnarwal180@gmail.com,,918813800817,,0,India,,,India,91,,0,,,,,5958,,,,,,,UTC,24,dd-mm-yyyy,0
+,Humesh Partap Rana,,humesh1987@yahoo.in,,919416713456,,1,India,,,India,91,,1,,,,,5959,,,,,,,UTC,24,dd-mm-yyyy,0
+,Baljeet Singh,,bs9780664032@gmail.com,,919780664032,,0,India,,,India,91,,0,,,,,5960,,,,,,,UTC,24,dd-mm-yyyy,0
+,Ayush kaushal,,Ayushkaushal47@gmail.com,,918627844714,,1,India,,,India,91,,1,,,,,5961,,,,,,,UTC,24,dd-mm-yyyy,0
+,Kamaljeet Kamaljeet,,saharankamaljeet@gmail.com,,919914421800,,0,India,,,India,91,,0,,,,,5962,,,,,,,UTC,24,dd-mm-yyyy,0
+,Anastasia Gubareva,,agubarieva@outlook.com,,380937545822,,0,Ukraine,,,Ukraine,380,,0,,,,,5963,,,,,,,UTC,24,dd-mm-yyyy,0
+,Varsha,,tanuchaha61000@gmail.com,,919813933146,,0,India,,,India,91,,0,,,,,5964,,,,,,,UTC,24,dd-mm-yyyy,0
+,Varsha,,anshdeswal00001@gmail.com,,919813933146,,1,India,,,India,91,,1,,,,,5965,,,,,,,UTC,24,dd-mm-yyyy,0
+,Mayank grover,,mayankgrover49@gmail.com,,9958813708,,0,India,,,India,91,,0,,,,,5966,,,,,,,UTC,24,dd-mm-yyyy,0
+,Aviva Bastina,,aviva.bastina@gmail.com,,312342344233,,0,Netherlands The,,,Netherlands The,31,,0,,,,,5967,,,,,,,UTC,24,dd-mm-yyyy,0
+,Mandeep kaur,,mandeepkaur43133@gmail.com,,919023676671,,1,India,,,India,91,,1,,,,,5968,Approved,,,,,,UTC,24,dd-mm-yyyy,0
+,SANJEEV  Kumar,,skdel3172@gmail.com,,919540428426,,0,India,,,India,91,,0,,,,,5969,,,,,,,UTC,24,dd-mm-yyyy,0
+,Satish Kumar,,akhspasociety@gmail.com,,919971221296,,0,India,,,India,91,,0,,,,,5970,,,,,,,UTC,24,dd-mm-yyyy,0
+,Meenu Devi,,mor8339991@gmail.com,,919306139634,,0,India,,,India,91,,0,,,,,5971,,,,,,,UTC,24,dd-mm-yyyy,0
+,Satish  Kumar,,nathan@68gmail.com,,919971221296,,0,India,,,India,91,,0,,,,,5972,,,,,,,UTC,24,dd-mm-yyyy,0
+,Brahmjit Singh,,brahmjit126@gmail.com,,918529860670,,1,India,,,India,91,,1,,,,,5973,,,,,,,UTC,24,dd-mm-yyyy,0
+,AMIT NARWAL,,narwalamit867@gmail.com,,+918813820796,,1,India,,,India,91,,1,,,,,5974,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sanjay,,prichahal97000@gmail.com,,+919813933146,,1,India,,,India,91,,1,,,,,5975,,,,,,,UTC,24,dd-mm-yyyy,0
+,Akshay Beniwal,,akshaybeniwal1989@gmail.com,,+918397036939,,1,India,,,India,91,,1,,,,,5976,,,,,,,UTC,24,dd-mm-yyyy,0
+,Sandeep  Kumar,,dagarsandeep4@gmail.com,,+917205004600,,1,India,,,India,91,,1,,,,,5977,,,,,,,UTC,24,dd-mm-yyyy,0
