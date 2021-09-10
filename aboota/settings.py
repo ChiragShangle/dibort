@@ -155,18 +155,18 @@ WSGI_APPLICATION = 'aboota.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/2.2/ref/settings/databases
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.sqlite3',
-#         'NAME': os.path.join(BASE_DIR, 'db1.sqlite3'),
-#     }
-# }
-
-import dj_database_url
 DATABASES = {
-    'default': dj_database_url.config(
-        default='postgres://dbmasteruser:pb2d80740f512c8cb41341e3291ed05b6b3d480a@ls-dff3f02526dec6fd6545926edd21f876ed074863.cz4lglmvud83.ap-south-1.rds.amazonaws.com:5432/postgres',
-        conn_max_age=600)}
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db1.sqlite3'),
+    }
+}
+
+# import dj_database_url
+# DATABASES = {
+#     'default': dj_database_url.config(
+#         default='postgres://dbmasteruser:pb2d80740f512c8cb41341e3291ed05b6b3d480a@ls-dff3f02526dec6fd6545926edd21f876ed074863.cz4lglmvud83.ap-south-1.rds.amazonaws.com:5432/postgres',
+#         conn_max_age=600)}
 
 ATOMIC_REQUESTS = True
 

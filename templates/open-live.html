@@ -32,6 +32,7 @@
 <div class="row align-items-center">
 <div class="col-md-6">
 <div class="vContactForm shadow pt-30 pb-30 pl-15 pr-15">
+{% if message == False %}
 <h3 class="vF900">The next step</h3>
 <p>Complete the form below and we’ll be in touch within a 24H.</p>
 <form id="sentMessageForm" method="POST">
@@ -329,7 +330,7 @@
                     <input class="form-control " type="checkbox" name="is_ib_request" value="1">
                </div>
                     <input class="form-control " type="hidden" name="request_to_open_liveacc" value="1">
-               <div id="IBContainer" class="hide">
+               <div id="IBContainer" class="hide"><!-- 
                     <div class="fieldgroup">
                          <label for="is_ib_request">Company Name<font color="red"></font></label>
                          <input class="form-control " type="text" name="ib_company_name" id="ib_company_name" class="classic" value="" placeholder="Company name">
@@ -341,7 +342,7 @@
                               <option value="3-5">3 - 5</option>
                               <option value="More than 5">More than 5</option>
                          </select>
-                    </div>
+                    </div> -->
                     <!-- <div class="fieldgroup">
                          <label for="ib_avg_volume_per_month">Average Volume Per Month<font color="red"></font></label>
                          <input class="form-control " type="text" name="ib_avg_volume_per_month" class="classic" value="" placeholder="Avg volume per month">
@@ -382,6 +383,10 @@
 Open Live Account
 </button>
 </form>
+{% else %}
+<h3 class="vF900">Live Account Created</h3>
+<p>Check your Email for more details.</p>
+{% endif %}
 </div>
 </div>
 </div>
