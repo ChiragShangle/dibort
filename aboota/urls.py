@@ -25,6 +25,7 @@ urlpatterns = [
     url(r'^i18n/', include('django.conf.urls.i18n')),
     path('', TemplateView.as_view(template_name='base.html')),
     path('about', TemplateView.as_view(template_name='about.html')),
+    path('terminal', TemplateView.as_view(template_name='terminal.html')),
     path('accounts', TemplateView.as_view(template_name='accounts.html')),
     path('awards', TemplateView.as_view(template_name='awards.html')),
     path('contact', TemplateView.as_view(template_name='contact.html')),
